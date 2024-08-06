@@ -66,7 +66,8 @@ if __name__ == '__main__':
             if running_times == 200:
                 log_info = '---------------change workloads here------------\n'
                 file_.write(log_info)
-        print('most_prob_action', env.allconfigs[most_prob_action])
+        print('current state is ', env.state)
+        print('current reward is ', env.GetCurrReward(running_times))
         # log_info = str(running_times) + ' ' + str(env.GetCurrReward()) + '\n'
         # file_.write(log_info)
         # log_info = str(running_times) + ' curr_state is ' + str(env.state) +'\n'

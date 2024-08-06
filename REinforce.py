@@ -172,6 +172,7 @@ class CacheResoureceSchdulingEnv:
         self.curr_count = 0                     # 当前epoch运行次数
         self.workload_change = workload_change
         self.allconfigs = []
+        self.step_num = step_num
         for i, j in itertools.permutations(range(app_num), 2):
             mod = [0] * app_num
             mod[i] += step_num
@@ -241,7 +242,7 @@ class CacheResoureceSchdulingEnv:
 
         # 设置训练停止条件 : 1.某个任务没分配到资源
         for i in range(self.app_num):
-            if self.state[i][1] <= 0:
+            if self.state[i][1] <= self.step_num:
                 done = True
                 self.curr_count = 0
         # 2.计算轮次过多
