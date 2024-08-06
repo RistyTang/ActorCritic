@@ -135,7 +135,6 @@ class ActorCritic:
 
         # 时序差分目标
         td_target = rewards + self.gamma * self.critic(next_states) * (1 - dones)
-        # td_target = rewards + self.gamma * self.critic(next_states)
         td_delta = td_target - self.critic(states)  # 时序差分误差
         log_probs = torch.log(self.actor(states).gather(1, actions))
         actor_loss = torch.mean(-log_probs * td_delta.detach())
@@ -205,8 +204,8 @@ class CacheResoureceSchdulingEnv:
             cache_hit.append(userC_func(per_source_num, 50))   # 初始奖励6.3125
         
         # print(cache_hit)
-        _, self.max_reward = get_now_reward(cache_hit)      
-        # print('epoch ', curr_epoch, 'max reward init', self.max_reward)
+        _, self.last_reward = get_now_reward(cache_hit)         # 上一步的奖励
+        # print('epoch ', curr_epoch, 'max reward init', self.last_reward)
         return self.state
         
     def step(self, new_actions, curr_epoch):
@@ -237,8 +236,15 @@ class CacheResoureceSchdulingEnv:
             cache_hit.append(userC_func(self.state[3][1], 50))   
 
         context, reward = get_now_reward(cache_hit)
-        # 回报奖励是与最大值的差异
-        return_reward = reward - self.max_reward
+        # 回报奖励是与最大值的差异 ->不稳定
+        # 如果比上次回报值更大则为1，相反为-1
+        if reward > self.last_reward:
+            return_reward = 1
+        else:
+            # if reward == self.last_reward:
+            #     return_reward = 0
+            # else:
+            return_reward = -1
 
         # 设置训练停止条件 : 1.某个任务没分配到资源
         for i in range(self.app_num):
@@ -246,14 +252,13 @@ class CacheResoureceSchdulingEnv:
                 done = True
                 self.curr_count = 0
         # 2.计算轮次过多
-        if (reward >= self.max_reward * 0.95 and self.curr_count >= 40) \
-        or self.curr_count > 60 :
+        if  self.curr_count > 40 :
             # print('---------------while done-----run : ',self.curr_count)
             self.curr_count = 0
             done = True
 
-        if reward > self.max_reward:
-            self.max_reward = reward
+        # if reward > self.last_reward:
+        self.last_reward = reward
 
         return self.state, return_reward, done, context
     

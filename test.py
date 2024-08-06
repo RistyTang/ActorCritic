@@ -4,6 +4,7 @@ import sys
 import time
 
 import numpy as np
+import gym
 from REinforce import *
 
 curPath = os.path.abspath(os.path.dirname(__file__))
@@ -13,19 +14,20 @@ sys.path.append(rootPath)
 
 
 if __name__ == '__main__':
+    
     # 环境设置
-    env = CacheResoureceSchdulingEnv(4, 400, 201, 2)          # 初始状态
-    print("before state", env.state)
-    env.step(0, 1)
-    print("after state", env.state)
+    env = CacheResoureceSchdulingEnv(4, 400, 501, 3)          # 初始状态
+    # print("before state", env.state)
+    # env.step(0, 1)
+    # print("after state", env.state)
 
     # agent设置
     state_dim, action_dim = env.GetDims()
     print('state_dim',state_dim,'action_dim',action_dim)
-    hidden_dim = 16    
+    hidden_dim = 32    
     actor_lr = 1e-3
     critic_lr = 1e-3
-    gamma = 0.96
+    gamma = 0.97
     device = torch.device("cuda") if torch.cuda.is_available() else torch.device(
     "cpu")
     agent = ActorCritic(state_dim, hidden_dim, action_dim, actor_lr, critic_lr,
@@ -51,8 +53,9 @@ if __name__ == '__main__':
                 transition_dict['next_states'].append(next_state_values)
                 transition_dict['rewards'].append(reward)
                 transition_dict['dones'].append(done)
-                # print('action : ',action,'state : ',state,'reward :',reward)
+                # print('prev_state : ',state_values,'action',env.allconfigs[action],'after_state : ',next_state_values,'reward :',reward)
                 state = next_state
+            # print('==================done================')
             agent.update(transition_dict)
             log_info = str(running_times) + ' ' + str(env.GetCurrReward(running_times)) + '\n'
             file_.write(log_info)
