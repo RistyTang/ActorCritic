@@ -2,6 +2,7 @@ import rl_utils
 import torch
 import torch.nn.functional as F
 import numpy as np
+import itertools
 # from util import *
 
 class PolicyNet(torch.nn.Module):
@@ -141,7 +142,7 @@ class ActorCritic:
         # 均方误差损失函数
         critic_loss = torch.mean(
             F.mse_loss(self.critic(states), td_target.detach()))
-        self.actor_optimizer.zero_grad()
+        self.actor_optimizer.zero_grad()        # 梯度置零
         self.critic_optimizer.zero_grad()
         actor_loss.backward()  # 计算策略网络的梯度
         critic_loss.backward()  # 计算价值网络的梯度
@@ -158,26 +159,51 @@ class ActorCritic:
 
 
 class CacheResoureceSchdulingEnv:
-    def __init__(self):
-        self.app_num = 2
-        self.num_resources = 32                # 总资源数目
+    def __init__(self, app_num, resource_num, workload_change, step_num = 1):
+        '''
+        app_num : 任务数量
+        resource_num : 总资源单位数目
+        workload_change : 工作负载开始变化轮次
+        step_num : 单次调整步长
+        '''
+        self.app_num = app_num
+        self.num_resources = resource_num                # 总资源数目
         self.counter = 0
-        self.all_configs = gen_all_config(self.app_num, self.num_resources)
-        cache_hit = [userA_func(16, 8), userB_func(16, 24)]
         self.curr_count = 0                     # 当前epoch运行次数
-        _, self.max_reward = get_now_reward(cache_hit)      # 初始奖励0.74
+        self.workload_change = workload_change
+        self.allconfigs = []
+        for i, j in itertools.permutations(range(app_num), 2):
+            mod = [0] * app_num
+            mod[i] += step_num
+            mod[j] -= step_num
+            self.allconfigs.append(mod)
+
+        self.allconfigs.append([0] * app_num)
+        # print("all config", self.allconfigs)
         self.reset(0)
 
         
     def reset(self,curr_epoch):
-        '''回到初始状态，设置其为各自一半'''
+        '''设置从均分开始调节，传入当前轮次实现负载变化'''
         self.state = []
-        self.state.append(['userA', self.num_resources // self.app_num])
-        self.state.append(['userB', self.num_resources // self.app_num])
-        if curr_epoch < 201:
-            cache_hit = [userA_func(16, 8), userB_func(16, 24)]     # 初始奖励0.74
+        per_source_num = int(self.num_resources // self.app_num)
+        for i in range(self.app_num):
+            username = 'user' + str(i)
+            self.state.append([username, per_source_num])
+        cache_hit = []
+        if curr_epoch < self.workload_change:
+            cache_hit.append(userA_func(per_source_num, 50))
+            cache_hit.append(userB_func(per_source_num, 100))
+            cache_hit.append(userC_func(per_source_num, 100))
+            cache_hit.append(userC_func(per_source_num, 150))   # 初始奖励6.5625
+        
         else:
-            cache_hit = [userA_func(16, 24), userB_func(16, 8)]     # 初始奖励0.94
+            cache_hit.append(userA_func(per_source_num, 150))
+            cache_hit.append(userB_func(per_source_num, 100))
+            cache_hit.append(userC_func(per_source_num, 100))
+            cache_hit.append(userC_func(per_source_num, 50))   # 初始奖励6.3125
+        
+        # print(cache_hit)
         _, self.max_reward = get_now_reward(cache_hit)      
         # print('epoch ', curr_epoch, 'max reward init', self.max_reward)
         return self.state
@@ -191,24 +217,36 @@ class CacheResoureceSchdulingEnv:
         self.curr_count = self.curr_count + 1
         done = False
             
-        # 修改当前状态
-        # print('new_actions',self.all_configs[new_actions])
+        # TODO : 修改当前状态
         for i in range(self.app_num):
-            self.state[i][1] = self.all_configs[new_actions][i]
+            self.state[i][1] += self.allconfigs[new_actions][i]
             # print(self.state[i])
-        
-        if curr_epoch < 201:
-            cache_hit = [userA_func(self.all_configs[new_actions][0], 8), userB_func(self.all_configs[new_actions][1], 24)]
+        cache_hit = []
+        if curr_epoch < self.workload_change:
+            cache_hit.append(userA_func(self.state[0][1], 50))
+            cache_hit.append(userB_func(self.state[1][1], 100))
+            cache_hit.append(userC_func(self.state[2][1], 100))
+            cache_hit.append(userC_func(self.state[3][1], 150))   # 初始奖励6.5625
         else:
-            if curr_epoch == 201:
+            if curr_epoch == self.workload_change:
                 print('-----------------------reward changes-----------------')
-            cache_hit = [userA_func(self.all_configs[new_actions][0], 24), userB_func(self.all_configs[new_actions][1], 8)]
+            cache_hit.append(userA_func(self.state[0][1], 150))
+            cache_hit.append(userB_func(self.state[1][1], 100))
+            cache_hit.append(userC_func(self.state[2][1], 100))
+            cache_hit.append(userC_func(self.state[3][1], 50))   
+
         context, reward = get_now_reward(cache_hit)
-        #  - self.max_reward
+        # 回报奖励是与最大值的差异
         return_reward = reward - self.max_reward
 
-        # 设置训练停止条件是
-        if (reward >= self.max_reward * 0.95 and self.curr_count >= 30) or self.curr_count > 50:
+        # 设置训练停止条件 : 1.某个任务没分配到资源
+        for i in range(self.app_num):
+            if self.state[i][1] <= 0:
+                done = True
+                self.curr_count = 0
+        # 2.计算轮次过多
+        if (reward >= self.max_reward * 0.95 and self.curr_count >= 40) \
+        or self.curr_count > 60 :
             # print('---------------while done-----run : ',self.curr_count)
             self.curr_count = 0
             done = True
@@ -224,7 +262,9 @@ class CacheResoureceSchdulingEnv:
         state_dim: 当前状态下每个任务已经分配的资源量 
         action_dim: 动作总数
         '''
-        return self.app_num, len(self.all_configs)
+        action_dim = self.app_num * (self.app_num - 1) + 1
+        state_dim = self.app_num
+        return state_dim, action_dim
     
     def PrintCurrState(self):
         print(self.state[0], self.state[1])
@@ -234,10 +274,17 @@ class CacheResoureceSchdulingEnv:
         '''
         返回当前状态下的Reward
         '''
-        if curr_epoch < 201:
-            cache_hit = [userA_func(self.state[0][1], 8), userB_func(self.state[1][1], 24)]
+        cache_hit = []
+        if curr_epoch < self.workload_change:
+            cache_hit.append(userA_func(self.state[0][1], 50))
+            cache_hit.append(userB_func(self.state[1][1], 100))
+            cache_hit.append(userC_func(self.state[2][1], 100))
+            cache_hit.append(userC_func(self.state[3][1], 150))   # 初始奖励6.5625
         else:
-            cache_hit = [userA_func(self.state[0][1], 24), userB_func(self.state[1][1], 8)]
+            cache_hit.append(userA_func(self.state[0][1], 150))
+            cache_hit.append(userB_func(self.state[1][1], 100))
+            cache_hit.append(userC_func(self.state[2][1], 100))
+            cache_hit.append(userC_func(self.state[3][1], 50))   # 初始奖励6.5625
         _, reward = get_now_reward(cache_hit)
         return reward
 
@@ -295,3 +342,11 @@ def userB_func(resources, threshold):
         return resources * 0.040
     else:
         return threshold * 0.040 + (resources - threshold) * 0.005
+    
+def userC_func(resources, threshold):
+    if threshold < 0:
+        return 0
+    if resources < threshold:
+        return resources * 0.080
+    else:
+        return threshold * 0.080 + (resources - threshold) * 0.015

@@ -1,1601 +1,1601 @@
-1 0.845
-1 curr_state is [['userA', 9], ['userB', 23]]
-1 most_prob_action [1, 31] most_prob_value 0.03154214099049568
-
-2 0.815
-2 curr_state is [['userA', 11], ['userB', 21]]
-2 most_prob_action [15, 17] most_prob_value 0.03298557549715042
-
-3 0.86
-3 curr_state is [['userA', 8], ['userB', 24]]
-3 most_prob_action [10, 22] most_prob_value 0.03438971936702728
-
-4 0.86
-4 curr_state is [['userA', 8], ['userB', 24]]
-4 most_prob_action [16, 16] most_prob_value 0.0357804074883461
-
-5 0.8300000000000001
-5 curr_state is [['userA', 10], ['userB', 22]]
-5 most_prob_action [14, 18] most_prob_value 0.03699786588549614
-
-6 0.8300000000000001
-6 curr_state is [['userA', 10], ['userB', 22]]
-6 most_prob_action [16, 16] most_prob_value 0.03857218101620674
-
-7 0.86
-7 curr_state is [['userA', 8], ['userB', 24]]
-7 most_prob_action [16, 16] most_prob_value 0.04082018509507179
-
-8 0.845
-8 curr_state is [['userA', 9], ['userB', 23]]
-8 most_prob_action [14, 18] most_prob_value 0.041982755064964294
-
-9 0.5
-9 curr_state is [['userA', 0], ['userB', 32]]
-9 most_prob_action [14, 18] most_prob_value 0.04801327735185623
-
-10 0.635
-10 curr_state is [['userA', 3], ['userB', 29]]
-10 most_prob_action [14, 18] most_prob_value 0.048033151775598526
-
-11 0.86
-11 curr_state is [['userA', 8], ['userB', 24]]
-11 most_prob_action [14, 18] most_prob_value 0.04690957069396973
-
-12 0.86
-12 curr_state is [['userA', 8], ['userB', 24]]
-12 most_prob_action [4, 28] most_prob_value 0.048994868993759155
-
-13 0.8300000000000001
-13 curr_state is [['userA', 10], ['userB', 22]]
-13 most_prob_action [4, 28] most_prob_value 0.050126586109399796
-
-14 0.6799999999999999
-14 curr_state is [['userA', 4], ['userB', 28]]
-14 most_prob_action [4, 28] most_prob_value 0.0555511936545372
-
-15 0.8
-15 curr_state is [['userA', 12], ['userB', 20]]
-15 most_prob_action [1, 31] most_prob_value 0.052156832069158554
-
-16 0.815
-16 curr_state is [['userA', 11], ['userB', 21]]
-16 most_prob_action [1, 31] most_prob_value 0.05481794849038124
-
-17 0.815
-17 curr_state is [['userA', 11], ['userB', 21]]
-17 most_prob_action [1, 31] most_prob_value 0.057002756744623184
-
-18 0.8300000000000001
-18 curr_state is [['userA', 10], ['userB', 22]]
-18 most_prob_action [1, 31] most_prob_value 0.05972318723797798
-
-19 0.8300000000000001
-19 curr_state is [['userA', 10], ['userB', 22]]
-19 most_prob_action [1, 31] most_prob_value 0.06199604272842407
-
-20 0.815
-20 curr_state is [['userA', 11], ['userB', 21]]
-20 most_prob_action [1, 31] most_prob_value 0.06343454867601395
-
-21 0.815
-21 curr_state is [['userA', 11], ['userB', 21]]
-21 most_prob_action [1, 31] most_prob_value 0.06572005152702332
-
-22 0.815
-22 curr_state is [['userA', 7], ['userB', 25]]
-22 most_prob_action [0, 32] most_prob_value 0.07188399136066437
-
-23 0.815
-23 curr_state is [['userA', 11], ['userB', 21]]
-23 most_prob_action [1, 31] most_prob_value 0.06957446038722992
-
-24 0.8300000000000001
-24 curr_state is [['userA', 10], ['userB', 22]]
-24 most_prob_action [0, 32] most_prob_value 0.07375670224428177
-
-25 0.86
-25 curr_state is [['userA', 8], ['userB', 24]]
-25 most_prob_action [0, 32] most_prob_value 0.08110898733139038
-
-26 0.8300000000000001
-26 curr_state is [['userA', 10], ['userB', 22]]
-26 most_prob_action [0, 32] most_prob_value 0.08079476654529572
-
-27 0.8300000000000001
-27 curr_state is [['userA', 10], ['userB', 22]]
-27 most_prob_action [0, 32] most_prob_value 0.08413518965244293
-
-28 0.86
-28 curr_state is [['userA', 8], ['userB', 24]]
-28 most_prob_action [0, 32] most_prob_value 0.09251533448696136
-
-29 0.8300000000000001
-29 curr_state is [['userA', 10], ['userB', 22]]
-29 most_prob_action [0, 32] most_prob_value 0.09121093899011612
-
-30 0.815
-30 curr_state is [['userA', 7], ['userB', 25]]
-30 most_prob_action [0, 32] most_prob_value 0.10339174419641495
-
-31 0.8300000000000001
-31 curr_state is [['userA', 10], ['userB', 22]]
-31 most_prob_action [0, 32] most_prob_value 0.09873685985803604
-
-32 0.815
-32 curr_state is [['userA', 7], ['userB', 25]]
-32 most_prob_action [0, 32] most_prob_value 0.11189597100019455
-
-33 0.785
-33 curr_state is [['userA', 13], ['userB', 19]]
-33 most_prob_action [0, 32] most_prob_value 0.09665267914533615
-
-34 0.815
-34 curr_state is [['userA', 7], ['userB', 25]]
-34 most_prob_action [0, 32] most_prob_value 0.12035650759935379
-
-35 0.815
-35 curr_state is [['userA', 7], ['userB', 25]]
-35 most_prob_action [0, 32] most_prob_value 0.12510570883750916
-
-36 0.59
-36 curr_state is [['userA', 2], ['userB', 30]]
-36 most_prob_action [0, 32] most_prob_value 0.1518876701593399
-
-37 0.785
-37 curr_state is [['userA', 13], ['userB', 19]]
-37 most_prob_action [0, 32] most_prob_value 0.1099289283156395
-
-38 0.8300000000000001
-38 curr_state is [['userA', 10], ['userB', 22]]
-38 most_prob_action [0, 32] most_prob_value 0.12529534101486206
-
-39 0.6950000000000001
-39 curr_state is [['userA', 19], ['userB', 13]]
-39 most_prob_action [0, 32] most_prob_value 0.09585000574588776
-
-40 0.59
-40 curr_state is [['userA', 2], ['userB', 30]]
-40 most_prob_action [0, 32] most_prob_value 0.17434433102607727
-
-41 0.845
-41 curr_state is [['userA', 9], ['userB', 23]]
-41 most_prob_action [0, 32] most_prob_value 0.14145328104496002
-
-42 0.845
-42 curr_state is [['userA', 9], ['userB', 23]]
-42 most_prob_action [0, 32] most_prob_value 0.14485809206962585
-
-43 0.545
-43 curr_state is [['userA', 1], ['userB', 31]]
-43 most_prob_action [0, 32] most_prob_value 0.19482019543647766
-
-44 0.8300000000000001
-44 curr_state is [['userA', 10], ['userB', 22]]
-44 most_prob_action [0, 32] most_prob_value 0.14507724344730377
-
-45 0.815
-45 curr_state is [['userA', 7], ['userB', 25]]
-45 most_prob_action [0, 32] most_prob_value 0.1630973219871521
-
-46 0.845
-46 curr_state is [['userA', 9], ['userB', 23]]
-46 most_prob_action [0, 32] most_prob_value 0.15323561429977417
-
-47 0.86
-47 curr_state is [['userA', 8], ['userB', 24]]
-47 most_prob_action [0, 32] most_prob_value 0.16009359061717987
-
-48 0.815
-48 curr_state is [['userA', 11], ['userB', 21]]
-48 most_prob_action [0, 32] most_prob_value 0.1445532888174057
-
-49 0.845
-49 curr_state is [['userA', 9], ['userB', 23]]
-49 most_prob_action [0, 32] most_prob_value 0.15624985098838806
-
-50 0.815
-50 curr_state is [['userA', 7], ['userB', 25]]
-50 most_prob_action [0, 32] most_prob_value 0.16826047003269196
-
-51 0.77
-51 curr_state is [['userA', 6], ['userB', 26]]
-51 most_prob_action [0, 32] most_prob_value 0.17349280416965485
-
-52 0.845
-52 curr_state is [['userA', 9], ['userB', 23]]
-52 most_prob_action [0, 32] most_prob_value 0.15562258660793304
-
-53 0.815
-53 curr_state is [['userA', 7], ['userB', 25]]
-53 most_prob_action [0, 32] most_prob_value 0.16576677560806274
-
-54 0.815
-54 curr_state is [['userA', 11], ['userB', 21]]
-54 most_prob_action [0, 32] most_prob_value 0.1432298868894577
-
-55 0.785
-55 curr_state is [['userA', 13], ['userB', 19]]
-55 most_prob_action [0, 32] most_prob_value 0.13210007548332214
-
-56 0.5
-56 curr_state is [['userA', 0], ['userB', 32]]
-56 most_prob_action [0, 32] most_prob_value 0.1988237351179123
-
-57 0.815
-57 curr_state is [['userA', 7], ['userB', 25]]
-57 most_prob_action [0, 32] most_prob_value 0.15721797943115234
-
-58 0.815
-58 curr_state is [['userA', 7], ['userB', 25]]
-58 most_prob_action [0, 32] most_prob_value 0.1528020203113556
-
-59 0.8300000000000001
-59 curr_state is [['userA', 10], ['userB', 22]]
-59 most_prob_action [0, 32] most_prob_value 0.13468627631664276
-
-60 0.77
-60 curr_state is [['userA', 6], ['userB', 26]]
-60 most_prob_action [0, 32] most_prob_value 0.1454802006483078
-
-61 0.815
-61 curr_state is [['userA', 11], ['userB', 21]]
-61 most_prob_action [6, 26] most_prob_value 0.12345784902572632
-
-62 0.785
-62 curr_state is [['userA', 13], ['userB', 19]]
-62 most_prob_action [6, 26] most_prob_value 0.11850585788488388
-
-63 0.86
-63 curr_state is [['userA', 8], ['userB', 24]]
-63 most_prob_action [6, 26] most_prob_value 0.13676880300045013
-
-64 0.86
-64 curr_state is [['userA', 8], ['userB', 24]]
-64 most_prob_action [6, 26] most_prob_value 0.13961322605609894
-
-65 0.815
-65 curr_state is [['userA', 11], ['userB', 21]]
-65 most_prob_action [6, 26] most_prob_value 0.13109980523586273
-
-66 0.8300000000000001
-66 curr_state is [['userA', 10], ['userB', 22]]
-66 most_prob_action [6, 26] most_prob_value 0.1378726363182068
-
-67 0.86
-67 curr_state is [['userA', 8], ['userB', 24]]
-67 most_prob_action [6, 26] most_prob_value 0.1502661556005478
-
-68 0.86
-68 curr_state is [['userA', 8], ['userB', 24]]
-68 most_prob_action [6, 26] most_prob_value 0.15375107526779175
-
-69 0.5
-69 curr_state is [['userA', 0], ['userB', 32]]
-69 most_prob_action [6, 26] most_prob_value 0.19588157534599304
-
-70 0.8
-70 curr_state is [['userA', 12], ['userB', 20]]
-70 most_prob_action [6, 26] most_prob_value 0.141807422041893
-
-71 0.8300000000000001
-71 curr_state is [['userA', 10], ['userB', 22]]
-71 most_prob_action [6, 26] most_prob_value 0.15675045549869537
-
-72 0.77
-72 curr_state is [['userA', 14], ['userB', 18]]
-72 most_prob_action [6, 26] most_prob_value 0.13757380843162537
-
-73 0.6799999999999999
-73 curr_state is [['userA', 4], ['userB', 28]]
-73 most_prob_action [6, 26] most_prob_value 0.20370472967624664
-
-74 0.8300000000000001
-74 curr_state is [['userA', 10], ['userB', 22]]
-74 most_prob_action [6, 26] most_prob_value 0.16873809695243835
-
-75 0.77
-75 curr_state is [['userA', 6], ['userB', 26]]
-75 most_prob_action [6, 26] most_prob_value 0.20165370404720306
-
-76 0.785
-76 curr_state is [['userA', 13], ['userB', 19]]
-76 most_prob_action [6, 26] most_prob_value 0.1566011607646942
-
-77 0.8300000000000001
-77 curr_state is [['userA', 10], ['userB', 22]]
-77 most_prob_action [6, 26] most_prob_value 0.18147322535514832
-
-78 0.845
-78 curr_state is [['userA', 9], ['userB', 23]]
-78 most_prob_action [6, 26] most_prob_value 0.1933463215827942
-
-79 0.785
-79 curr_state is [['userA', 13], ['userB', 19]]
-79 most_prob_action [6, 26] most_prob_value 0.16474758088588715
-
-80 0.8
-80 curr_state is [['userA', 12], ['userB', 20]]
-80 most_prob_action [6, 26] most_prob_value 0.17491881549358368
-
-81 0.785
-81 curr_state is [['userA', 13], ['userB', 19]]
-81 most_prob_action [6, 26] most_prob_value 0.16854426264762878
-
-82 0.8300000000000001
-82 curr_state is [['userA', 10], ['userB', 22]]
-82 most_prob_action [6, 26] most_prob_value 0.19513975083827972
-
-83 0.815
-83 curr_state is [['userA', 7], ['userB', 25]]
-83 most_prob_action [6, 26] most_prob_value 0.22489367425441742
-
-84 0.845
-84 curr_state is [['userA', 9], ['userB', 23]]
-84 most_prob_action [6, 26] most_prob_value 0.20731104910373688
-
-85 0.77
-85 curr_state is [['userA', 6], ['userB', 26]]
-85 most_prob_action [6, 26] most_prob_value 0.2407802939414978
-
-86 0.815
-86 curr_state is [['userA', 11], ['userB', 21]]
-86 most_prob_action [6, 26] most_prob_value 0.19377872347831726
-
-87 0.845
-87 curr_state is [['userA', 9], ['userB', 23]]
-87 most_prob_action [6, 26] most_prob_value 0.214925155043602
-
-88 0.6799999999999999
-88 curr_state is [['userA', 4], ['userB', 28]]
-88 most_prob_action [6, 26] most_prob_value 0.27163222432136536
-
-89 0.86
-89 curr_state is [['userA', 8], ['userB', 24]]
-89 most_prob_action [6, 26] most_prob_value 0.22862759232521057
-
-90 0.77
-90 curr_state is [['userA', 6], ['userB', 26]]
-90 most_prob_action [6, 26] most_prob_value 0.2540432810783386
-
-91 0.8
-91 curr_state is [['userA', 12], ['userB', 20]]
-91 most_prob_action [6, 26] most_prob_value 0.19196867942810059
-
-92 0.785
-92 curr_state is [['userA', 13], ['userB', 19]]
-92 most_prob_action [6, 26] most_prob_value 0.1838168054819107
-
-93 0.785
-93 curr_state is [['userA', 13], ['userB', 19]]
-93 most_prob_action [6, 26] most_prob_value 0.18509717285633087
-
-94 0.815
-94 curr_state is [['userA', 7], ['userB', 25]]
-94 most_prob_action [6, 26] most_prob_value 0.2528161108493805
-
-95 0.845
-95 curr_state is [['userA', 9], ['userB', 23]]
-95 most_prob_action [6, 26] most_prob_value 0.23085597157478333
-
-96 0.5
-96 curr_state is [['userA', 0], ['userB', 32]]
-96 most_prob_action [6, 26] most_prob_value 0.351580411195755
-
-97 0.86
-97 curr_state is [['userA', 8], ['userB', 24]]
-97 most_prob_action [6, 26] most_prob_value 0.24698172509670258
-
-98 0.815
-98 curr_state is [['userA', 11], ['userB', 21]]
-98 most_prob_action [6, 26] most_prob_value 0.21343494951725006
-
-99 0.77
-99 curr_state is [['userA', 6], ['userB', 26]]
-99 most_prob_action [6, 26] most_prob_value 0.2794136106967926
-
-100 0.815
-100 curr_state is [['userA', 11], ['userB', 21]]
-100 most_prob_action [6, 26] most_prob_value 0.22008644044399261
-
-101 0.8300000000000001
-101 curr_state is [['userA', 10], ['userB', 22]]
-101 most_prob_action [6, 26] most_prob_value 0.23488372564315796
-
-102 0.815
-102 curr_state is [['userA', 11], ['userB', 21]]
-102 most_prob_action [6, 26] most_prob_value 0.22473447024822235
-
-103 0.86
-103 curr_state is [['userA', 8], ['userB', 24]]
-103 most_prob_action [6, 26] most_prob_value 0.26480892300605774
-
-104 0.8300000000000001
-104 curr_state is [['userA', 10], ['userB', 22]]
-104 most_prob_action [6, 26] most_prob_value 0.24150636792182922
-
-105 0.8300000000000001
-105 curr_state is [['userA', 10], ['userB', 22]]
-105 most_prob_action [6, 26] most_prob_value 0.243561252951622
-
-106 0.815
-106 curr_state is [['userA', 11], ['userB', 21]]
-106 most_prob_action [6, 26] most_prob_value 0.23300319910049438
-
-107 0.6799999999999999
-107 curr_state is [['userA', 4], ['userB', 28]]
-107 most_prob_action [6, 26] most_prob_value 0.33298245072364807
-
-108 0.815
-108 curr_state is [['userA', 7], ['userB', 25]]
-108 most_prob_action [6, 26] most_prob_value 0.2920862138271332
-
-109 0.86
-109 curr_state is [['userA', 8], ['userB', 24]]
-109 most_prob_action [6, 26] most_prob_value 0.2816866338253021
-
-110 0.725
-110 curr_state is [['userA', 5], ['userB', 27]]
-110 most_prob_action [6, 26] most_prob_value 0.32999905943870544
-
-111 0.86
-111 curr_state is [['userA', 8], ['userB', 24]]
-111 most_prob_action [6, 26] most_prob_value 0.2879279553890228
-
-112 0.6950000000000001
-112 curr_state is [['userA', 19], ['userB', 13]]
-112 most_prob_action [6, 26] most_prob_value 0.16879190504550934
-
-113 0.8
-113 curr_state is [['userA', 12], ['userB', 20]]
-113 most_prob_action [6, 26] most_prob_value 0.24012771248817444
-
-114 0.845
-114 curr_state is [['userA', 9], ['userB', 23]]
-114 most_prob_action [6, 26] most_prob_value 0.2843613624572754
-
-115 0.785
-115 curr_state is [['userA', 13], ['userB', 19]]
-115 most_prob_action [6, 26] most_prob_value 0.23179493844509125
-
-116 0.8300000000000001
-116 curr_state is [['userA', 10], ['userB', 22]]
-116 most_prob_action [6, 26] most_prob_value 0.27538856863975525
-
-117 0.53
-117 curr_state is [['userA', 30], ['userB', 2]]
-117 most_prob_action [13, 19] most_prob_value 0.11422590911388397
-
-118 0.845
-118 curr_state is [['userA', 9], ['userB', 23]]
-118 most_prob_action [6, 26] most_prob_value 0.29492735862731934
-
-119 0.77
-119 curr_state is [['userA', 6], ['userB', 26]]
-119 most_prob_action [6, 26] most_prob_value 0.3456394672393799
-
-120 0.8
-120 curr_state is [['userA', 12], ['userB', 20]]
-120 most_prob_action [6, 26] most_prob_value 0.2585810720920563
-
-121 0.815
-121 curr_state is [['userA', 11], ['userB', 21]]
-121 most_prob_action [6, 26] most_prob_value 0.27646151185035706
-
-122 0.77
-122 curr_state is [['userA', 6], ['userB', 26]]
-122 most_prob_action [6, 26] most_prob_value 0.3608170747756958
-
-123 0.8300000000000001
-123 curr_state is [['userA', 10], ['userB', 22]]
-123 most_prob_action [6, 26] most_prob_value 0.3013375997543335
-
-124 0.77
-124 curr_state is [['userA', 6], ['userB', 26]]
-124 most_prob_action [6, 26] most_prob_value 0.3728548586368561
-
-125 0.815
-125 curr_state is [['userA', 7], ['userB', 25]]
-125 most_prob_action [6, 26] most_prob_value 0.3602161109447479
-
-126 0.785
-126 curr_state is [['userA', 13], ['userB', 19]]
-126 most_prob_action [6, 26] most_prob_value 0.2670709788799286
-
-127 0.8
-127 curr_state is [['userA', 12], ['userB', 20]]
-127 most_prob_action [6, 26] most_prob_value 0.2841883897781372
-
-128 0.785
-128 curr_state is [['userA', 13], ['userB', 19]]
-128 most_prob_action [6, 26] most_prob_value 0.2692164480686188
-
-129 0.815
-129 curr_state is [['userA', 7], ['userB', 25]]
-129 most_prob_action [6, 26] most_prob_value 0.3629504442214966
-
-130 0.815
-130 curr_state is [['userA', 11], ['userB', 21]]
-130 most_prob_action [6, 26] most_prob_value 0.29809725284576416
-
-131 0.8
-131 curr_state is [['userA', 12], ['userB', 20]]
-131 most_prob_action [6, 26] most_prob_value 0.2812052071094513
-
-132 0.86
-132 curr_state is [['userA', 8], ['userB', 24]]
-132 most_prob_action [6, 26] most_prob_value 0.3376120328903198
-
-133 0.8300000000000001
-133 curr_state is [['userA', 10], ['userB', 22]]
-133 most_prob_action [6, 26] most_prob_value 0.3040788769721985
-
-134 0.845
-134 curr_state is [['userA', 9], ['userB', 23]]
-134 most_prob_action [6, 26] most_prob_value 0.31362807750701904
-
-135 0.8
-135 curr_state is [['userA', 12], ['userB', 20]]
-135 most_prob_action [6, 26] most_prob_value 0.2677828073501587
-
-136 0.8300000000000001
-136 curr_state is [['userA', 10], ['userB', 22]]
-136 most_prob_action [6, 26] most_prob_value 0.2894894778728485
-
-137 0.785
-137 curr_state is [['userA', 13], ['userB', 19]]
-137 most_prob_action [6, 26] most_prob_value 0.24557024240493774
-
-138 0.8300000000000001
-138 curr_state is [['userA', 10], ['userB', 22]]
-138 most_prob_action [6, 26] most_prob_value 0.27719151973724365
-
-139 0.815
-139 curr_state is [['userA', 7], ['userB', 25]]
-139 most_prob_action [6, 26] most_prob_value 0.30713653564453125
-
-140 0.815
-140 curr_state is [['userA', 7], ['userB', 25]]
-140 most_prob_action [6, 26] most_prob_value 0.2994241416454315
-
-141 0.8300000000000001
-141 curr_state is [['userA', 10], ['userB', 22]]
-141 most_prob_action [6, 26] most_prob_value 0.25867003202438354
-
-142 0.8
-142 curr_state is [['userA', 12], ['userB', 20]]
-142 most_prob_action [13, 19] most_prob_value 0.23979347944259644
-
-143 0.725
-143 curr_state is [['userA', 17], ['userB', 15]]
-143 most_prob_action [13, 19] most_prob_value 0.20219936966896057
-
-144 0.815
-144 curr_state is [['userA', 11], ['userB', 21]]
-144 most_prob_action [13, 19] most_prob_value 0.26877152919769287
-
-145 0.8
-145 curr_state is [['userA', 12], ['userB', 20]]
-145 most_prob_action [13, 19] most_prob_value 0.26774683594703674
-
-146 0.815
-146 curr_state is [['userA', 7], ['userB', 25]]
-146 most_prob_action [13, 19] most_prob_value 0.33337706327438354
-
-147 0.86
-147 curr_state is [['userA', 8], ['userB', 24]]
-147 most_prob_action [13, 19] most_prob_value 0.33499300479888916
-
-148 0.8300000000000001
-148 curr_state is [['userA', 10], ['userB', 22]]
-148 most_prob_action [13, 19] most_prob_value 0.3227819502353668
-
-149 0.8300000000000001
-149 curr_state is [['userA', 10], ['userB', 22]]
-149 most_prob_action [13, 19] most_prob_value 0.3332601487636566
-
-150 0.785
-150 curr_state is [['userA', 13], ['userB', 19]]
-150 most_prob_action [13, 19] most_prob_value 0.30429068207740784
-
-151 0.8
-151 curr_state is [['userA', 12], ['userB', 20]]
-151 most_prob_action [13, 19] most_prob_value 0.3297877013683319
-
-152 0.77
-152 curr_state is [['userA', 6], ['userB', 26]]
-152 most_prob_action [13, 19] most_prob_value 0.43182986974716187
-
-153 0.785
-153 curr_state is [['userA', 13], ['userB', 19]]
-153 most_prob_action [13, 19] most_prob_value 0.33957502245903015
-
-154 0.86
-154 curr_state is [['userA', 8], ['userB', 24]]
-154 most_prob_action [13, 19] most_prob_value 0.4368647038936615
-
-155 0.8
-155 curr_state is [['userA', 12], ['userB', 20]]
-155 most_prob_action [13, 19] most_prob_value 0.38529133796691895
-
-156 0.785
-156 curr_state is [['userA', 13], ['userB', 19]]
-156 most_prob_action [13, 19] most_prob_value 0.3835470676422119
-
-157 0.8
-157 curr_state is [['userA', 12], ['userB', 20]]
-157 most_prob_action [13, 19] most_prob_value 0.4178870916366577
-
-158 0.8
-158 curr_state is [['userA', 12], ['userB', 20]]
-158 most_prob_action [13, 19] most_prob_value 0.4335493743419647
-
-159 0.8
-159 curr_state is [['userA', 12], ['userB', 20]]
-159 most_prob_action [13, 19] most_prob_value 0.447828084230423
-
-160 0.785
-160 curr_state is [['userA', 13], ['userB', 19]]
-160 most_prob_action [13, 19] most_prob_value 0.44352105259895325
-
-161 0.785
-161 curr_state is [['userA', 13], ['userB', 19]]
-161 most_prob_action [13, 19] most_prob_value 0.46022382378578186
-
-162 0.8
-162 curr_state is [['userA', 12], ['userB', 20]]
-162 most_prob_action [13, 19] most_prob_value 0.4983726739883423
-
-163 0.785
-163 curr_state is [['userA', 13], ['userB', 19]]
-163 most_prob_action [13, 19] most_prob_value 0.49343231320381165
-
-164 0.785
-164 curr_state is [['userA', 13], ['userB', 19]]
-164 most_prob_action [13, 19] most_prob_value 0.5118868350982666
-
-165 0.8300000000000001
-165 curr_state is [['userA', 10], ['userB', 22]]
-165 most_prob_action [13, 19] most_prob_value 0.5974102020263672
-
-166 0.785
-166 curr_state is [['userA', 13], ['userB', 19]]
-166 most_prob_action [13, 19] most_prob_value 0.547037661075592
-
-167 0.8
-167 curr_state is [['userA', 12], ['userB', 20]]
-167 most_prob_action [13, 19] most_prob_value 0.5872340202331543
-
-168 0.785
-168 curr_state is [['userA', 13], ['userB', 19]]
-168 most_prob_action [13, 19] most_prob_value 0.5821180939674377
-
-169 0.86
-169 curr_state is [['userA', 8], ['userB', 24]]
-169 most_prob_action [13, 19] most_prob_value 0.7098410725593567
-
-170 0.785
-170 curr_state is [['userA', 13], ['userB', 19]]
-170 most_prob_action [13, 19] most_prob_value 0.6178290247917175
-
-171 0.815
-171 curr_state is [['userA', 11], ['userB', 21]]
-171 most_prob_action [13, 19] most_prob_value 0.6808627247810364
-
-172 0.785
-172 curr_state is [['userA', 13], ['userB', 19]]
-172 most_prob_action [13, 19] most_prob_value 0.6542367339134216
-
-173 0.8
-173 curr_state is [['userA', 12], ['userB', 20]]
-173 most_prob_action [13, 19] most_prob_value 0.6951050758361816
-
-174 0.785
-174 curr_state is [['userA', 13], ['userB', 19]]
-174 most_prob_action [13, 19] most_prob_value 0.6903221607208252
-
-175 0.845
-175 curr_state is [['userA', 9], ['userB', 23]]
-175 most_prob_action [13, 19] most_prob_value 0.7852476835250854
-
-176 0.8300000000000001
-176 curr_state is [['userA', 10], ['userB', 22]]
-176 most_prob_action [13, 19] most_prob_value 0.7791576981544495
-
-177 0.785
-177 curr_state is [['userA', 13], ['userB', 19]]
-177 most_prob_action [13, 19] most_prob_value 0.7330803275108337
-
-178 0.785
-178 curr_state is [['userA', 13], ['userB', 19]]
-178 most_prob_action [13, 19] most_prob_value 0.7461277842521667
-
-179 0.815
-179 curr_state is [['userA', 7], ['userB', 25]]
-179 most_prob_action [13, 19] most_prob_value 0.8564254641532898
-
-180 0.785
-180 curr_state is [['userA', 13], ['userB', 19]]
-180 most_prob_action [13, 19] most_prob_value 0.7679014801979065
-
-181 0.845
-181 curr_state is [['userA', 9], ['userB', 23]]
-181 most_prob_action [13, 19] most_prob_value 0.8438730835914612
-
-182 0.785
-182 curr_state is [['userA', 13], ['userB', 19]]
-182 most_prob_action [13, 19] most_prob_value 0.7861983776092529
-
-183 0.8
-183 curr_state is [['userA', 12], ['userB', 20]]
-183 most_prob_action [13, 19] most_prob_value 0.8108213543891907
-
-184 0.785
-184 curr_state is [['userA', 13], ['userB', 19]]
-184 most_prob_action [13, 19] most_prob_value 0.8002545833587646
-
-185 0.8
-185 curr_state is [['userA', 12], ['userB', 20]]
-185 most_prob_action [13, 19] most_prob_value 0.8234148025512695
-
-186 0.785
-186 curr_state is [['userA', 13], ['userB', 19]]
-186 most_prob_action [13, 19] most_prob_value 0.8133915066719055
-
-187 0.785
-187 curr_state is [['userA', 13], ['userB', 19]]
-187 most_prob_action [13, 19] most_prob_value 0.8205857276916504
-
-188 0.785
-188 curr_state is [['userA', 13], ['userB', 19]]
-188 most_prob_action [13, 19] most_prob_value 0.8274624347686768
-
-189 0.785
-189 curr_state is [['userA', 13], ['userB', 19]]
-189 most_prob_action [13, 19] most_prob_value 0.8338124752044678
-
-190 0.86
-190 curr_state is [['userA', 8], ['userB', 24]]
-190 most_prob_action [13, 19] most_prob_value 0.9014989137649536
-
-191 0.785
-191 curr_state is [['userA', 13], ['userB', 19]]
-191 most_prob_action [13, 19] most_prob_value 0.8438449501991272
-
-192 0.785
-192 curr_state is [['userA', 13], ['userB', 19]]
-192 most_prob_action [13, 19] most_prob_value 0.8485000133514404
-
-193 0.785
-193 curr_state is [['userA', 13], ['userB', 19]]
-193 most_prob_action [13, 19] most_prob_value 0.8529633283615112
-
-194 0.785
-194 curr_state is [['userA', 13], ['userB', 19]]
-194 most_prob_action [13, 19] most_prob_value 0.8574044108390808
-
-195 0.785
-195 curr_state is [['userA', 13], ['userB', 19]]
-195 most_prob_action [13, 19] most_prob_value 0.8618379235267639
-
-196 0.8
-196 curr_state is [['userA', 12], ['userB', 20]]
-196 most_prob_action [13, 19] most_prob_value 0.8789461851119995
-
-197 0.785
-197 curr_state is [['userA', 13], ['userB', 19]]
-197 most_prob_action [13, 19] most_prob_value 0.8698616027832031
-
-198 0.77
-198 curr_state is [['userA', 6], ['userB', 26]]
-198 most_prob_action [13, 19] most_prob_value 0.9385783672332764
-
-199 0.815
-199 curr_state is [['userA', 7], ['userB', 25]]
-199 most_prob_action [13, 19] most_prob_value 0.9334940314292908
-
-200 0.785
-200 curr_state is [['userA', 13], ['userB', 19]]
-200 most_prob_action [13, 19] most_prob_value 0.878744900226593
+1 6.2075000000000005
+1 curr_state is [['user0', 98], ['user1', 104], ['user2', 104], ['user3', 94]]
+1 most_prob_action [0, -2, 0, 2] most_prob_value 0.10655499249696732
+
+2 6.484999999999999
+2 curr_state is [['user0', 88], ['user1', 102], ['user2', 86], ['user3', 124]]
+2 most_prob_action [0, 2, -2, 0] most_prob_value 0.1390318125486374
+
+3 6.755000000000001
+3 curr_state is [['user0', 64], ['user1', 110], ['user2', 98], ['user3', 128]]
+3 most_prob_action [0, -2, 0, 2] most_prob_value 0.17270442843437195
+
+4 6.717499999999999
+4 curr_state is [['user0', 78], ['user1', 98], ['user2', 82], ['user3', 142]]
+4 most_prob_action [0, -2, 0, 2] most_prob_value 0.20156487822532654
+
+5 6.8475
+5 curr_state is [['user0', 74], ['user1', 92], ['user2', 100], ['user3', 134]]
+5 most_prob_action [0, -2, 0, 2] most_prob_value 0.24186037480831146
+
+6 7.0424999999999995
+6 curr_state is [['user0', 56], ['user1', 78], ['user2', 110], ['user3', 156]]
+6 most_prob_action [0, -2, 0, 2] most_prob_value 0.319406658411026
+
+7 6.785
+7 curr_state is [['user0', 66], ['user1', 96], ['user2', 78], ['user3', 160]]
+7 most_prob_action [0, -2, 0, 2] most_prob_value 0.37594708800315857
+
+8 6.955
+8 curr_state is [['user0', 62], ['user1', 86], ['user2', 92], ['user3', 160]]
+8 most_prob_action [0, -2, 0, 2] most_prob_value 0.3895852565765381
+
+9 6.8975
+9 curr_state is [['user0', 64], ['user1', 72], ['user2', 94], ['user3', 170]]
+9 most_prob_action [0, -2, 0, 2] most_prob_value 0.4219832420349121
+
+10 6.8025
+10 curr_state is [['user0', 70], ['user1', 58], ['user2', 94], ['user3', 178]]
+10 most_prob_action [0, -2, 0, 2] most_prob_value 0.425413578748703
+
+11 6.8725
+11 curr_state is [['user0', 56], ['user1', 82], ['user2', 88], ['user3', 174]]
+11 most_prob_action [0, -2, 0, 2] most_prob_value 0.45922762155532837
+
+12 6.9275
+12 curr_state is [['user0', 60], ['user1', 76], ['user2', 94], ['user3', 170]]
+12 most_prob_action [0, -2, 0, 2] most_prob_value 0.5031797289848328
+
+13 6.7475
+13 curr_state is [['user0', 70], ['user1', 70], ['user2', 86], ['user3', 174]]
+13 most_prob_action [0, -2, 0, 2] most_prob_value 0.5506592988967896
+
+14 6.665
+14 curr_state is [['user0', 76], ['user1', 58], ['user2', 86], ['user3', 180]]
+14 most_prob_action [0, -2, 0, 2] most_prob_value 0.5898820161819458
+
+15 6.907500000000001
+15 curr_state is [['user0', 56], ['user1', 72], ['user2', 94], ['user3', 178]]
+15 most_prob_action [0, -2, 0, 2] most_prob_value 0.661716639995575
+
+16 6.65
+16 curr_state is [['user0', 78], ['user1', 56], ['user2', 86], ['user3', 180]]
+16 most_prob_action [0, -2, 0, 2] most_prob_value 0.687282383441925
+
+17 6.76
+17 curr_state is [['user0', 74], ['user1', 52], ['user2', 94], ['user3', 180]]
+17 most_prob_action [0, -2, 0, 2] most_prob_value 0.6482309103012085
+
+18 6.81
+18 curr_state is [['user0', 70], ['user1', 54], ['user2', 96], ['user3', 180]]
+18 most_prob_action [0, -2, 0, 2] most_prob_value 0.6092090010643005
+
+19 6.8225
+19 curr_state is [['user0', 70], ['user1', 56], ['user2', 96], ['user3', 178]]
+19 most_prob_action [0, -2, 0, 2] most_prob_value 0.5641690492630005
+
+20 6.77
+20 curr_state is [['user0', 70], ['user1', 58], ['user2', 92], ['user3', 180]]
+20 most_prob_action [0, -2, 0, 2] most_prob_value 0.5396036505699158
+
+21 6.84
+21 curr_state is [['user0', 66], ['user1', 58], ['user2', 96], ['user3', 180]]
+21 most_prob_action [-2, 0, 0, 2] most_prob_value 0.49439874291419983
+
+22 6.9325
+22 curr_state is [['user0', 48], ['user1', 76], ['user2', 96], ['user3', 180]]
+22 most_prob_action [-2, 0, 0, 2] most_prob_value 0.6178013682365417
+
+23 6.27
+23 curr_state is [['user0', 16], ['user1', 62], ['user2', 100], ['user3', 222]]
+23 most_prob_action [0, -2, 0, 2] most_prob_value 0.5314568877220154
+
+24 6.9525
+24 curr_state is [['user0', 48], ['user1', 74], ['user2', 98], ['user3', 180]]
+24 most_prob_action [-2, 0, 0, 2] most_prob_value 0.6559799909591675
+
+25 6.8225
+25 curr_state is [['user0', 40], ['user1', 84], ['user2', 96], ['user3', 180]]
+25 most_prob_action [-2, 0, 0, 2] most_prob_value 0.7119678854942322
+
+26 6.16
+26 curr_state is [['user0', 8], ['user1', 70], ['user2', 100], ['user3', 222]]
+26 most_prob_action [-2, 0, 0, 2] most_prob_value 0.5377832651138306
+
+27 6.8625
+27 curr_state is [['user0', 40], ['user1', 80], ['user2', 100], ['user3', 180]]
+27 most_prob_action [-2, 0, 0, 2] most_prob_value 0.7224175930023193
+
+28 6.140000000000001
+28 curr_state is [['user0', 8], ['user1', 72], ['user2', 98], ['user3', 222]]
+28 most_prob_action [-2, 0, 0, 2] most_prob_value 0.6510158181190491
+
+29 6.807499999999999
+29 curr_state is [['user0', 36], ['user1', 84], ['user2', 100], ['user3', 180]]
+29 most_prob_action [-2, 0, 0, 2] most_prob_value 0.8350441455841064
+
+30 6.835
+30 curr_state is [['user0', 38], ['user1', 82], ['user2', 100], ['user3', 180]]
+30 most_prob_action [-2, 0, 0, 2] most_prob_value 0.778083860874176
+
+31 6.8149999999999995
+31 curr_state is [['user0', 38], ['user1', 84], ['user2', 98], ['user3', 180]]
+31 most_prob_action [-2, 0, 0, 2] most_prob_value 0.7244203686714172
+
+32 6.807499999999999
+32 curr_state is [['user0', 36], ['user1', 84], ['user2', 100], ['user3', 180]]
+32 most_prob_action [-2, 0, 0, 2] most_prob_value 0.6794077157974243
+
+33 6.807499999999999
+33 curr_state is [['user0', 36], ['user1', 84], ['user2', 100], ['user3', 180]]
+33 most_prob_action [-2, 0, 0, 2] most_prob_value 0.6676501631736755
+
+34 6.9174999999999995
+34 curr_state is [['user0', 44], ['user1', 76], ['user2', 100], ['user3', 180]]
+34 most_prob_action [-2, 0, 0, 2] most_prob_value 0.6860232353210449
+
+35 6.945
+35 curr_state is [['user0', 46], ['user1', 74], ['user2', 100], ['user3', 180]]
+35 most_prob_action [-2, 0, 0, 2] most_prob_value 0.5999919176101685
+
+36 6.89
+36 curr_state is [['user0', 42], ['user1', 78], ['user2', 100], ['user3', 180]]
+36 most_prob_action [-2, 0, 0, 2] most_prob_value 0.5399893522262573
+
+37 6.8625
+37 curr_state is [['user0', 40], ['user1', 80], ['user2', 100], ['user3', 180]]
+37 most_prob_action [-2, 0, 0, 2] most_prob_value 0.5068775415420532
+
+38 6.9725
+38 curr_state is [['user0', 48], ['user1', 72], ['user2', 100], ['user3', 180]]
+38 most_prob_action [0, -2, 0, 2] most_prob_value 0.5759440660476685
+
+39 6.91
+39 curr_state is [['user0', 62], ['user1', 58], ['user2', 100], ['user3', 180]]
+39 most_prob_action [0, -2, 0, 2] most_prob_value 0.694721519947052
+
+40 6.895
+40 curr_state is [['user0', 64], ['user1', 56], ['user2', 100], ['user3', 180]]
+40 most_prob_action [0, -2, 0, 2] most_prob_value 0.8026127815246582
+
+41 6.85
+41 curr_state is [['user0', 70], ['user1', 50], ['user2', 100], ['user3', 180]]
+41 most_prob_action [0, -2, 0, 2] most_prob_value 0.8806176781654358
+
+42 6.805
+42 curr_state is [['user0', 76], ['user1', 44], ['user2', 100], ['user3', 180]]
+42 most_prob_action [0, -2, 0, 2] most_prob_value 0.9306146502494812
+
+43 6.7
+43 curr_state is [['user0', 90], ['user1', 30], ['user2', 100], ['user3', 180]]
+43 most_prob_action [0, -2, 0, 2] most_prob_value 0.9580839276313782
+
+44 6.67
+44 curr_state is [['user0', 94], ['user1', 26], ['user2', 100], ['user3', 180]]
+44 most_prob_action [0, -2, 0, 2] most_prob_value 0.9717126488685608
+
+45 6.685
+45 curr_state is [['user0', 92], ['user1', 28], ['user2', 100], ['user3', 180]]
+45 most_prob_action [0, -2, 0, 2] most_prob_value 0.9789601564407349
+
+46 6.64
+46 curr_state is [['user0', 98], ['user1', 22], ['user2', 100], ['user3', 180]]
+46 most_prob_action [0, -2, 0, 2] most_prob_value 0.9840531349182129
+
+47 6.67
+47 curr_state is [['user0', 94], ['user1', 26], ['user2', 100], ['user3', 180]]
+47 most_prob_action [0, -2, 0, 2] most_prob_value 0.9866829514503479
+
+48 6.64
+48 curr_state is [['user0', 98], ['user1', 22], ['user2', 100], ['user3', 180]]
+48 most_prob_action [0, -2, 0, 2] most_prob_value 0.989050030708313
+
+49 6.685
+49 curr_state is [['user0', 92], ['user1', 28], ['user2', 100], ['user3', 180]]
+49 most_prob_action [0, -2, 0, 2] most_prob_value 0.9902237057685852
+
+50 6.64
+50 curr_state is [['user0', 98], ['user1', 22], ['user2', 100], ['user3', 180]]
+50 most_prob_action [0, -2, 0, 2] most_prob_value 0.9915362596511841
+
+51 6.685
+51 curr_state is [['user0', 92], ['user1', 28], ['user2', 100], ['user3', 180]]
+51 most_prob_action [0, -2, 0, 2] most_prob_value 0.9919450879096985
+
+52 6.64
+52 curr_state is [['user0', 98], ['user1', 22], ['user2', 100], ['user3', 180]]
+52 most_prob_action [0, -2, 0, 2] most_prob_value 0.9905617833137512
+
+53 6.654999999999999
+53 curr_state is [['user0', 96], ['user1', 24], ['user2', 100], ['user3', 180]]
+53 most_prob_action [0, -2, 0, 2] most_prob_value 0.9885246157646179
+
+54 6.654999999999999
+54 curr_state is [['user0', 96], ['user1', 24], ['user2', 100], ['user3', 180]]
+54 most_prob_action [0, -2, 0, 2] most_prob_value 0.9862095713615417
+
+55 6.67
+55 curr_state is [['user0', 94], ['user1', 26], ['user2', 100], ['user3', 180]]
+55 most_prob_action [0, -2, 0, 2] most_prob_value 0.9831026196479797
+
+56 6.64
+56 curr_state is [['user0', 98], ['user1', 22], ['user2', 100], ['user3', 180]]
+56 most_prob_action [0, -2, 0, 2] most_prob_value 0.9793388247489929
+
+57 6.67
+57 curr_state is [['user0', 94], ['user1', 26], ['user2', 100], ['user3', 180]]
+57 most_prob_action [0, -2, 0, 2] most_prob_value 0.9751641750335693
+
+58 6.67
+58 curr_state is [['user0', 94], ['user1', 26], ['user2', 100], ['user3', 180]]
+58 most_prob_action [0, -2, 0, 2] most_prob_value 0.9693751335144043
+
+59 6.654999999999999
+59 curr_state is [['user0', 96], ['user1', 24], ['user2', 100], ['user3', 180]]
+59 most_prob_action [0, -2, 0, 2] most_prob_value 0.9620519280433655
+
+60 6.685
+60 curr_state is [['user0', 92], ['user1', 28], ['user2', 100], ['user3', 180]]
+60 most_prob_action [0, -2, 0, 2] most_prob_value 0.9532320499420166
+
+61 6.654999999999999
+61 curr_state is [['user0', 96], ['user1', 24], ['user2', 100], ['user3', 180]]
+61 most_prob_action [0, -2, 0, 2] most_prob_value 0.9404117465019226
+
+62 6.715
+62 curr_state is [['user0', 88], ['user1', 32], ['user2', 100], ['user3', 180]]
+62 most_prob_action [0, -2, 0, 2] most_prob_value 0.9275517463684082
+
+63 6.7
+63 curr_state is [['user0', 90], ['user1', 30], ['user2', 100], ['user3', 180]]
+63 most_prob_action [0, -2, 0, 2] most_prob_value 0.907151997089386
+
+64 6.744999999999999
+64 curr_state is [['user0', 84], ['user1', 36], ['user2', 100], ['user3', 180]]
+64 most_prob_action [0, -2, 0, 2] most_prob_value 0.8845431208610535
+
+65 6.775
+65 curr_state is [['user0', 80], ['user1', 40], ['user2', 100], ['user3', 180]]
+65 most_prob_action [0, -2, 0, 2] most_prob_value 0.8509032130241394
+
+66 6.79
+66 curr_state is [['user0', 78], ['user1', 42], ['user2', 100], ['user3', 180]]
+66 most_prob_action [0, -2, 0, 2] most_prob_value 0.8001734018325806
+
+67 6.805
+67 curr_state is [['user0', 76], ['user1', 44], ['user2', 100], ['user3', 180]]
+67 most_prob_action [0, -2, 0, 2] most_prob_value 0.734127402305603
+
+68 6.744999999999999
+68 curr_state is [['user0', 84], ['user1', 36], ['user2', 100], ['user3', 180]]
+68 most_prob_action [0, -2, 0, 2] most_prob_value 0.6274819374084473
+
+69 6.845
+69 curr_state is [['user0', 68], ['user1', 54], ['user2', 98], ['user3', 180]]
+69 most_prob_action [0, -2, 0, 2] most_prob_value 0.582520604133606
+
+70 6.949999999999999
+70 curr_state is [['user0', 54], ['user1', 68], ['user2', 98], ['user3', 180]]
+70 most_prob_action [0, -2, 0, 2] most_prob_value 0.5940889120101929
+
+71 6.955
+71 curr_state is [['user0', 56], ['user1', 64], ['user2', 102], ['user3', 178]]
+71 most_prob_action [0, -2, 0, 2] most_prob_value 0.6024049520492554
+
+72 6.97
+72 curr_state is [['user0', 54], ['user1', 66], ['user2', 100], ['user3', 180]]
+72 most_prob_action [0, -2, 0, 2] most_prob_value 0.6824043393135071
+
+73 6.91
+73 curr_state is [['user0', 62], ['user1', 58], ['user2', 100], ['user3', 180]]
+73 most_prob_action [0, -2, 0, 2] most_prob_value 0.7085176110267639
+
+74 6.88
+74 curr_state is [['user0', 66], ['user1', 54], ['user2', 100], ['user3', 180]]
+74 most_prob_action [0, -2, 0, 2] most_prob_value 0.7576487064361572
+
+75 6.865
+75 curr_state is [['user0', 68], ['user1', 52], ['user2', 100], ['user3', 180]]
+75 most_prob_action [0, -2, 0, 2] most_prob_value 0.81102055311203
+
+76 6.865
+76 curr_state is [['user0', 68], ['user1', 52], ['user2', 100], ['user3', 180]]
+76 most_prob_action [0, -2, 0, 2] most_prob_value 0.8578615784645081
+
+77 6.74
+77 curr_state is [['user0', 82], ['user1', 40], ['user2', 98], ['user3', 180]]
+77 most_prob_action [0, -2, 0, 2] most_prob_value 0.8647764921188354
+
+78 6.8
+78 curr_state is [['user0', 74], ['user1', 48], ['user2', 98], ['user3', 180]]
+78 most_prob_action [0, -2, 0, 2] most_prob_value 0.8971021175384521
+
+79 6.79
+79 curr_state is [['user0', 78], ['user1', 42], ['user2', 100], ['user3', 180]]
+79 most_prob_action [0, -2, 0, 2] most_prob_value 0.8986777663230896
+
+80 6.79
+80 curr_state is [['user0', 78], ['user1', 42], ['user2', 100], ['user3', 180]]
+80 most_prob_action [0, -2, 0, 2] most_prob_value 0.8941245079040527
+
+81 6.685
+81 curr_state is [['user0', 92], ['user1', 28], ['user2', 100], ['user3', 180]]
+81 most_prob_action [0, -2, 0, 2] most_prob_value 0.8640401363372803
+
+82 6.805
+82 curr_state is [['user0', 76], ['user1', 44], ['user2', 100], ['user3', 180]]
+82 most_prob_action [0, -2, 0, 2] most_prob_value 0.8861432075500488
+
+83 6.755
+83 curr_state is [['user0', 80], ['user1', 42], ['user2', 98], ['user3', 180]]
+83 most_prob_action [0, -2, 0, 2] most_prob_value 0.8608819246292114
+
+84 6.8
+84 curr_state is [['user0', 74], ['user1', 48], ['user2', 98], ['user3', 180]]
+84 most_prob_action [0, -2, 0, 2] most_prob_value 0.8568371534347534
+
+85 6.85
+85 curr_state is [['user0', 70], ['user1', 50], ['user2', 100], ['user3', 180]]
+85 most_prob_action [0, -2, 0, 2] most_prob_value 0.8492861390113831
+
+86 6.76
+86 curr_state is [['user0', 82], ['user1', 38], ['user2', 100], ['user3', 180]]
+86 most_prob_action [0, -2, 0, 2] most_prob_value 0.7898851633071899
+
+87 6.865
+87 curr_state is [['user0', 68], ['user1', 52], ['user2', 100], ['user3', 180]]
+87 most_prob_action [0, -2, 0, 2] most_prob_value 0.8250449895858765
+
+88 6.835
+88 curr_state is [['user0', 72], ['user1', 48], ['user2', 100], ['user3', 180]]
+88 most_prob_action [0, -2, 0, 2] most_prob_value 0.8183662295341492
+
+89 6.82
+89 curr_state is [['user0', 74], ['user1', 46], ['user2', 100], ['user3', 180]]
+89 most_prob_action [0, -2, 0, 2] most_prob_value 0.8176987767219543
+
+90 6.805
+90 curr_state is [['user0', 76], ['user1', 44], ['user2', 100], ['user3', 180]]
+90 most_prob_action [0, -2, 0, 2] most_prob_value 0.8090141415596008
+
+91 6.7725
+91 curr_state is [['user0', 82], ['user1', 40], ['user2', 100], ['user3', 178]]
+91 most_prob_action [0, -2, 0, 2] most_prob_value 0.7768572568893433
+
+92 6.8149999999999995
+92 curr_state is [['user0', 72], ['user1', 50], ['user2', 98], ['user3', 180]]
+92 most_prob_action [0, -2, 0, 2] most_prob_value 0.7996297478675842
+
+93 6.785
+93 curr_state is [['user0', 76], ['user1', 46], ['user2', 98], ['user3', 180]]
+93 most_prob_action [0, -2, 0, 2] most_prob_value 0.7574254274368286
+
+94 6.88
+94 curr_state is [['user0', 66], ['user1', 54], ['user2', 100], ['user3', 180]]
+94 most_prob_action [0, -2, 0, 2] most_prob_value 0.7652787566184998
+
+95 6.835
+95 curr_state is [['user0', 72], ['user1', 48], ['user2', 100], ['user3', 180]]
+95 most_prob_action [0, -2, 0, 2] most_prob_value 0.6914256811141968
+
+96 6.9399999999999995
+96 curr_state is [['user0', 58], ['user1', 62], ['user2', 100], ['user3', 180]]
+96 most_prob_action [0, -2, 0, 2] most_prob_value 0.7055691480636597
+
+97 6.89
+97 curr_state is [['user0', 62], ['user1', 60], ['user2', 98], ['user3', 180]]
+97 most_prob_action [0, -2, 0, 2] most_prob_value 0.6689308881759644
+
+98 6.88
+98 curr_state is [['user0', 66], ['user1', 54], ['user2', 100], ['user3', 180]]
+98 most_prob_action [0, -2, 0, 2] most_prob_value 0.6615557670593262
+
+99 6.97
+99 curr_state is [['user0', 54], ['user1', 66], ['user2', 100], ['user3', 180]]
+99 most_prob_action [0, -2, 0, 2] most_prob_value 0.7787196636199951
+
+100 6.9399999999999995
+100 curr_state is [['user0', 58], ['user1', 62], ['user2', 100], ['user3', 180]]
+100 most_prob_action [0, -2, 0, 2] most_prob_value 0.8291939496994019
+
+101 6.85
+101 curr_state is [['user0', 70], ['user1', 50], ['user2', 100], ['user3', 180]]
+101 most_prob_action [0, -2, 0, 2] most_prob_value 0.8408532738685608
+
+102 6.845
+102 curr_state is [['user0', 68], ['user1', 54], ['user2', 98], ['user3', 180]]
+102 most_prob_action [0, -2, 0, 2] most_prob_value 0.8904711008071899
+
+103 6.835
+103 curr_state is [['user0', 72], ['user1', 48], ['user2', 100], ['user3', 180]]
+103 most_prob_action [0, -2, 0, 2] most_prob_value 0.9084991812705994
+
+104 6.76
+104 curr_state is [['user0', 82], ['user1', 38], ['user2', 100], ['user3', 180]]
+104 most_prob_action [0, -2, 0, 2] most_prob_value 0.9025387167930603
+
+105 6.715
+105 curr_state is [['user0', 88], ['user1', 32], ['user2', 100], ['user3', 180]]
+105 most_prob_action [0, -2, 0, 2] most_prob_value 0.8987846374511719
+
+106 6.76
+106 curr_state is [['user0', 82], ['user1', 38], ['user2', 100], ['user3', 180]]
+106 most_prob_action [0, -2, 0, 2] most_prob_value 0.9228892922401428
+
+107 6.715
+107 curr_state is [['user0', 88], ['user1', 32], ['user2', 100], ['user3', 180]]
+107 most_prob_action [0, -2, 0, 2] most_prob_value 0.9146441221237183
+
+108 6.744999999999999
+108 curr_state is [['user0', 84], ['user1', 36], ['user2', 100], ['user3', 180]]
+108 most_prob_action [0, -2, 0, 2] most_prob_value 0.9249222278594971
+
+109 6.7
+109 curr_state is [['user0', 90], ['user1', 30], ['user2', 100], ['user3', 180]]
+109 most_prob_action [0, -2, 0, 2] most_prob_value 0.9091338515281677
+
+110 6.715
+110 curr_state is [['user0', 88], ['user1', 32], ['user2', 100], ['user3', 180]]
+110 most_prob_action [0, -2, 0, 2] most_prob_value 0.8951411247253418
+
+111 6.7
+111 curr_state is [['user0', 90], ['user1', 30], ['user2', 100], ['user3', 180]]
+111 most_prob_action [0, -2, 0, 2] most_prob_value 0.8621839880943298
+
+112 6.775
+112 curr_state is [['user0', 80], ['user1', 40], ['user2', 100], ['user3', 180]]
+112 most_prob_action [0, -2, 0, 2] most_prob_value 0.8678129315376282
+
+113 6.79
+113 curr_state is [['user0', 78], ['user1', 42], ['user2', 100], ['user3', 180]]
+113 most_prob_action [0, -2, 0, 2] most_prob_value 0.8197312355041504
+
+114 6.82
+114 curr_state is [['user0', 74], ['user1', 46], ['user2', 100], ['user3', 180]]
+114 most_prob_action [0, -2, 0, 2] most_prob_value 0.7753900289535522
+
+115 6.9350000000000005
+115 curr_state is [['user0', 62], ['user1', 62], ['user2', 100], ['user3', 176]]
+115 most_prob_action [0, -2, 0, 2] most_prob_value 0.7558966875076294
+
+116 6.88
+116 curr_state is [['user0', 66], ['user1', 54], ['user2', 100], ['user3', 180]]
+116 most_prob_action [0, -2, 0, 2] most_prob_value 0.6202515363693237
+
+117 6.9825
+117 curr_state is [['user0', 54], ['user1', 68], ['user2', 100], ['user3', 178]]
+117 most_prob_action [0, -2, 0, 2] most_prob_value 0.6690582633018494
+
+118 6.9725
+118 curr_state is [['user0', 48], ['user1', 72], ['user2', 100], ['user3', 180]]
+118 most_prob_action [0, -2, 0, 2] most_prob_value 0.7240204811096191
+
+119 6.984999999999999
+119 curr_state is [['user0', 52], ['user1', 68], ['user2', 100], ['user3', 180]]
+119 most_prob_action [0, -2, 0, 2] most_prob_value 0.7261204123497009
+
+120 6.97
+120 curr_state is [['user0', 54], ['user1', 66], ['user2', 100], ['user3', 180]]
+120 most_prob_action [0, -2, 0, 2] most_prob_value 0.7715805768966675
+
+121 6.865
+121 curr_state is [['user0', 68], ['user1', 52], ['user2', 100], ['user3', 180]]
+121 most_prob_action [0, -2, 0, 2] most_prob_value 0.7295714616775513
+
+122 6.865
+122 curr_state is [['user0', 68], ['user1', 52], ['user2', 100], ['user3', 180]]
+122 most_prob_action [0, -2, 0, 2] most_prob_value 0.8001576066017151
+
+123 6.85
+123 curr_state is [['user0', 70], ['user1', 50], ['user2', 100], ['user3', 180]]
+123 most_prob_action [0, -2, 0, 2] most_prob_value 0.8410090804100037
+
+124 6.82
+124 curr_state is [['user0', 74], ['user1', 46], ['user2', 100], ['user3', 180]]
+124 most_prob_action [0, -2, 0, 2] most_prob_value 0.8519879579544067
+
+125 6.805
+125 curr_state is [['user0', 76], ['user1', 44], ['user2', 100], ['user3', 180]]
+125 most_prob_action [0, -2, 0, 2] most_prob_value 0.8646886348724365
+
+126 6.775
+126 curr_state is [['user0', 80], ['user1', 40], ['user2', 100], ['user3', 180]]
+126 most_prob_action [0, -2, 0, 2] most_prob_value 0.853127658367157
+
+127 6.775
+127 curr_state is [['user0', 80], ['user1', 40], ['user2', 100], ['user3', 180]]
+127 most_prob_action [0, -2, 0, 2] most_prob_value 0.8565247654914856
+
+128 6.734999999999999
+128 curr_state is [['user0', 80], ['user1', 44], ['user2', 96], ['user3', 180]]
+128 most_prob_action [0, -2, 0, 2] most_prob_value 0.8552728295326233
+
+129 6.805
+129 curr_state is [['user0', 76], ['user1', 44], ['user2', 100], ['user3', 180]]
+129 most_prob_action [0, -2, 0, 2] most_prob_value 0.8673540949821472
+
+130 6.76
+130 curr_state is [['user0', 82], ['user1', 38], ['user2', 100], ['user3', 180]]
+130 most_prob_action [0, -2, 0, 2] most_prob_value 0.8069971799850464
+
+131 6.805
+131 curr_state is [['user0', 76], ['user1', 44], ['user2', 100], ['user3', 180]]
+131 most_prob_action [0, -2, 0, 2] most_prob_value 0.8224747776985168
+
+132 6.8175
+132 curr_state is [['user0', 76], ['user1', 46], ['user2', 100], ['user3', 178]]
+132 most_prob_action [0, -2, 0, 2] most_prob_value 0.766575276851654
+
+133 6.755
+133 curr_state is [['user0', 80], ['user1', 42], ['user2', 98], ['user3', 180]]
+133 most_prob_action [0, -2, 0, 2] most_prob_value 0.624700665473938
+
+134 6.895
+134 curr_state is [['user0', 64], ['user1', 56], ['user2', 100], ['user3', 180]]
+134 most_prob_action [0, -2, 0, 2] most_prob_value 0.7056767344474792
+
+135 6.895
+135 curr_state is [['user0', 64], ['user1', 56], ['user2', 100], ['user3', 180]]
+135 most_prob_action [0, -2, 0, 2] most_prob_value 0.6442992687225342
+
+136 6.9399999999999995
+136 curr_state is [['user0', 58], ['user1', 62], ['user2', 100], ['user3', 180]]
+136 most_prob_action [0, -2, 0, 2] most_prob_value 0.6537681818008423
+
+137 6.955
+137 curr_state is [['user0', 56], ['user1', 64], ['user2', 100], ['user3', 180]]
+137 most_prob_action [0, -2, 0, 2] most_prob_value 0.6027135252952576
+
+138 6.9975000000000005
+138 curr_state is [['user0', 52], ['user1', 70], ['user2', 100], ['user3', 178]]
+138 most_prob_action [0, -2, 0, 2] most_prob_value 0.6277587413787842
+
+139 6.97
+139 curr_state is [['user0', 54], ['user1', 66], ['user2', 100], ['user3', 180]]
+139 most_prob_action [0, -2, 0, 2] most_prob_value 0.6222579479217529
+
+140 6.97
+140 curr_state is [['user0', 54], ['user1', 66], ['user2', 100], ['user3', 180]]
+140 most_prob_action [0, -2, 0, 2] most_prob_value 0.6341065764427185
+
+141 6.9725
+141 curr_state is [['user0', 48], ['user1', 72], ['user2', 100], ['user3', 180]]
+141 most_prob_action [0, -2, 0, 2] most_prob_value 0.6952303647994995
+
+142 6.97
+142 curr_state is [['user0', 54], ['user1', 66], ['user2', 100], ['user3', 180]]
+142 most_prob_action [0, -2, 0, 2] most_prob_value 0.6399776935577393
+
+143 6.92
+143 curr_state is [['user0', 58], ['user1', 64], ['user2', 98], ['user3', 180]]
+143 most_prob_action [0, -2, 0, 2] most_prob_value 0.6329501867294312
+
+144 6.904999999999999
+144 curr_state is [['user0', 60], ['user1', 62], ['user2', 98], ['user3', 180]]
+144 most_prob_action [0, -2, 0, 2] most_prob_value 0.6727060079574585
+
+145 6.9625
+145 curr_state is [['user0', 54], ['user1', 70], ['user2', 98], ['user3', 178]]
+145 most_prob_action [0, -2, 0, 2] most_prob_value 0.7989640235900879
+
+146 6.952500000000001
+146 curr_state is [['user0', 58], ['user1', 64], ['user2', 100], ['user3', 178]]
+146 most_prob_action [0, -2, 0, 2] most_prob_value 0.7990704774856567
+
+147 6.895
+147 curr_state is [['user0', 64], ['user1', 56], ['user2', 100], ['user3', 180]]
+147 most_prob_action [0, -2, 0, 2] most_prob_value 0.7826328277587891
+
+148 6.9375
+148 curr_state is [['user0', 60], ['user1', 62], ['user2', 100], ['user3', 178]]
+148 most_prob_action [0, -2, 0, 2] most_prob_value 0.8745114803314209
+
+149 6.8925
+149 curr_state is [['user0', 66], ['user1', 56], ['user2', 100], ['user3', 178]]
+149 most_prob_action [0, -2, 0, 2] most_prob_value 0.871846616268158
+
+150 6.76
+150 curr_state is [['user0', 82], ['user1', 38], ['user2', 100], ['user3', 180]]
+150 most_prob_action [0, -2, 0, 2] most_prob_value 0.7404805421829224
+
+151 6.862500000000001
+151 curr_state is [['user0', 70], ['user1', 52], ['user2', 100], ['user3', 178]]
+151 most_prob_action [0, -2, 0, 2] most_prob_value 0.8894938826560974
+
+152 6.8774999999999995
+152 curr_state is [['user0', 68], ['user1', 54], ['user2', 100], ['user3', 178]]
+152 most_prob_action [0, -2, 0, 2] most_prob_value 0.9173492193222046
+
+153 6.79
+153 curr_state is [['user0', 78], ['user1', 42], ['user2', 100], ['user3', 180]]
+153 most_prob_action [0, -2, 0, 2] most_prob_value 0.8557535409927368
+
+154 6.845000000000001
+154 curr_state is [['user0', 74], ['user1', 50], ['user2', 100], ['user3', 176]]
+154 most_prob_action [0, -2, 0, 2] most_prob_value 0.8912923336029053
+
+155 6.7875
+155 curr_state is [['user0', 80], ['user1', 42], ['user2', 100], ['user3', 178]]
+155 most_prob_action [0, -2, 0, 2] most_prob_value 0.8336921334266663
+
+156 6.785
+156 curr_state is [['user0', 82], ['user1', 42], ['user2', 100], ['user3', 176]]
+156 most_prob_action [0, -2, 0, 2] most_prob_value 0.8010736703872681
+
+157 6.744999999999999
+157 curr_state is [['user0', 84], ['user1', 36], ['user2', 100], ['user3', 180]]
+157 most_prob_action [0, -2, 0, 2] most_prob_value 0.7486295700073242
+
+158 6.855
+158 curr_state is [['user0', 76], ['user1', 52], ['user2', 100], ['user3', 172]]
+158 most_prob_action [0, -2, 0, 2] most_prob_value 0.8265007138252258
+
+159 6.8025
+159 curr_state is [['user0', 78], ['user1', 44], ['user2', 100], ['user3', 178]]
+159 most_prob_action [0, -2, 0, 2] most_prob_value 0.7426164746284485
+
+160 6.86
+160 curr_state is [['user0', 72], ['user1', 52], ['user2', 100], ['user3', 176]]
+160 most_prob_action [0, -2, 0, 2] most_prob_value 0.7551431655883789
+
+161 6.8975
+161 curr_state is [['user0', 72], ['user1', 58], ['user2', 100], ['user3', 170]]
+161 most_prob_action [0, -2, 0, 2] most_prob_value 0.6969500780105591
+
+162 6.8475
+162 curr_state is [['user0', 72], ['user1', 50], ['user2', 100], ['user3', 178]]
+162 most_prob_action [0, -2, 0, 2] most_prob_value 0.5717704892158508
+
+163 6.96
+163 curr_state is [['user0', 62], ['user1', 66], ['user2', 100], ['user3', 172]]
+163 most_prob_action [0, -2, 0, 2] most_prob_value 0.6148711442947388
+
+164 7.0375
+164 curr_state is [['user0', 60], ['user1', 78], ['user2', 100], ['user3', 162]]
+164 most_prob_action [0, -2, 0, 2] most_prob_value 0.6322901248931885
+
+165 7.050000000000001
+165 curr_state is [['user0', 60], ['user1', 80], ['user2', 100], ['user3', 160]]
+165 most_prob_action [0, -2, 0, 2] most_prob_value 0.6409395337104797
+
+166 7.109999999999999
+166 curr_state is [['user0', 52], ['user1', 88], ['user2', 100], ['user3', 160]]
+166 most_prob_action [0, -2, 0, 2] most_prob_value 0.7193290591239929
+
+167 7.1049999999999995
+167 curr_state is [['user0', 56], ['user1', 88], ['user2', 100], ['user3', 156]]
+167 most_prob_action [0, -2, 0, 2] most_prob_value 0.7150752544403076
+
+168 7.055
+168 curr_state is [['user0', 56], ['user1', 80], ['user2', 100], ['user3', 164]]
+168 most_prob_action [0, -2, 0, 2] most_prob_value 0.7807500958442688
+
+169 6.9275
+169 curr_state is [['user0', 68], ['user1', 62], ['user2', 100], ['user3', 170]]
+169 most_prob_action [0, -2, 0, 2] most_prob_value 0.6451666355133057
+
+170 6.9575
+170 curr_state is [['user0', 64], ['user1', 66], ['user2', 102], ['user3', 168]]
+170 most_prob_action [0, -2, 0, 2] most_prob_value 0.7703930139541626
+
+171 6.845000000000001
+171 curr_state is [['user0', 74], ['user1', 50], ['user2', 100], ['user3', 176]]
+171 most_prob_action [0, -2, 0, 2] most_prob_value 0.6035850644111633
+
+172 6.93
+172 curr_state is [['user0', 66], ['user1', 62], ['user2', 100], ['user3', 172]]
+172 most_prob_action [0, -2, 0, 2] most_prob_value 0.7845407724380493
+
+173 6.9175
+173 curr_state is [['user0', 66], ['user1', 60], ['user2', 100], ['user3', 174]]
+173 most_prob_action [0, -2, 0, 2] most_prob_value 0.8134893774986267
+
+174 6.8975
+174 curr_state is [['user0', 72], ['user1', 58], ['user2', 100], ['user3', 170]]
+174 most_prob_action [0, -2, 0, 2] most_prob_value 0.7675586938858032
+
+175 6.8725
+175 curr_state is [['user0', 72], ['user1', 54], ['user2', 100], ['user3', 174]]
+175 most_prob_action [0, -2, 0, 2] most_prob_value 0.7615562677383423
+
+176 6.8825
+176 curr_state is [['user0', 68], ['user1', 60], ['user2', 98], ['user3', 174]]
+176 most_prob_action [0, -2, 0, 2] most_prob_value 0.8316119909286499
+
+177 6.890000000000001
+177 curr_state is [['user0', 68], ['user1', 56], ['user2', 100], ['user3', 176]]
+177 most_prob_action [0, -2, 0, 2] most_prob_value 0.8383148908615112
+
+178 6.8475
+178 curr_state is [['user0', 72], ['user1', 50], ['user2', 100], ['user3', 178]]
+178 most_prob_action [0, -2, 0, 2] most_prob_value 0.7875012159347534
+
+179 6.85
+179 curr_state is [['user0', 70], ['user1', 50], ['user2', 100], ['user3', 180]]
+179 most_prob_action [0, -2, 0, 2] most_prob_value 0.8102762699127197
+
+180 6.842499999999999
+180 curr_state is [['user0', 76], ['user1', 50], ['user2', 100], ['user3', 174]]
+180 most_prob_action [0, -2, 0, 2] most_prob_value 0.7305062413215637
+
+181 6.84
+181 curr_state is [['user0', 72], ['user1', 54], ['user2', 98], ['user3', 176]]
+181 most_prob_action [0, -2, 0, 2] most_prob_value 0.7661625742912292
+
+182 6.8774999999999995
+182 curr_state is [['user0', 68], ['user1', 54], ['user2', 100], ['user3', 178]]
+182 most_prob_action [0, -2, 0, 2] most_prob_value 0.7955451011657715
+
+183 6.8175
+183 curr_state is [['user0', 76], ['user1', 46], ['user2', 100], ['user3', 178]]
+183 most_prob_action [0, -2, 0, 2] most_prob_value 0.6274847984313965
+
+184 6.855
+184 curr_state is [['user0', 70], ['user1', 56], ['user2', 98], ['user3', 176]]
+184 most_prob_action [0, -2, 0, 2] most_prob_value 0.72585129737854
+
+185 6.8325
+185 curr_state is [['user0', 74], ['user1', 48], ['user2', 100], ['user3', 178]]
+185 most_prob_action [0, -2, 0, 2] most_prob_value 0.599489688873291
+
+186 6.92
+186 curr_state is [['user0', 64], ['user1', 60], ['user2', 100], ['user3', 176]]
+186 most_prob_action [0, -2, 0, 2] most_prob_value 0.774483859539032
+
+187 6.905
+187 curr_state is [['user0', 66], ['user1', 58], ['user2', 100], ['user3', 176]]
+187 most_prob_action [0, -2, 0, 2] most_prob_value 0.7411373853683472
+
+188 6.945
+188 curr_state is [['user0', 64], ['user1', 64], ['user2', 100], ['user3', 172]]
+188 most_prob_action [0, -2, 0, 2] most_prob_value 0.8005731701850891
+
+189 6.945
+189 curr_state is [['user0', 64], ['user1', 64], ['user2', 100], ['user3', 172]]
+189 most_prob_action [0, -2, 0, 2] most_prob_value 0.7957974672317505
+
+190 6.9175
+190 curr_state is [['user0', 66], ['user1', 60], ['user2', 100], ['user3', 174]]
+190 most_prob_action [0, -2, 0, 2] most_prob_value 0.7722508311271667
+
+191 6.865
+191 curr_state is [['user0', 68], ['user1', 52], ['user2', 100], ['user3', 180]]
+191 most_prob_action [0, -2, 0, 2] most_prob_value 0.7439113259315491
+
+192 6.905
+192 curr_state is [['user0', 66], ['user1', 58], ['user2', 100], ['user3', 176]]
+192 most_prob_action [0, -2, 0, 2] most_prob_value 0.791236937046051
+
+193 6.890000000000001
+193 curr_state is [['user0', 68], ['user1', 56], ['user2', 100], ['user3', 176]]
+193 most_prob_action [0, -2, 0, 2] most_prob_value 0.7660853266716003
+
+194 6.85
+194 curr_state is [['user0', 70], ['user1', 50], ['user2', 100], ['user3', 180]]
+194 most_prob_action [0, -2, 0, 2] most_prob_value 0.7318239808082581
+
+195 6.890000000000001
+195 curr_state is [['user0', 68], ['user1', 56], ['user2', 100], ['user3', 176]]
+195 most_prob_action [0, -2, 0, 2] most_prob_value 0.7789860367774963
+
+196 6.895
+196 curr_state is [['user0', 64], ['user1', 56], ['user2', 100], ['user3', 180]]
+196 most_prob_action [0, -2, 0, 2] most_prob_value 0.8438494801521301
+
+197 6.895
+197 curr_state is [['user0', 64], ['user1', 56], ['user2', 100], ['user3', 180]]
+197 most_prob_action [0, -2, 0, 2] most_prob_value 0.8579599261283875
+
+198 6.835
+198 curr_state is [['user0', 72], ['user1', 48], ['user2', 100], ['user3', 180]]
+198 most_prob_action [0, -2, 0, 2] most_prob_value 0.7522849440574646
+
+199 6.88
+199 curr_state is [['user0', 66], ['user1', 54], ['user2', 100], ['user3', 180]]
+199 most_prob_action [0, -2, 0, 2] most_prob_value 0.8511902093887329
+
+200 6.890000000000001
+200 curr_state is [['user0', 68], ['user1', 56], ['user2', 100], ['user3', 176]]
+200 most_prob_action [0, -2, 0, 2] most_prob_value 0.852613091468811
 
 ---------------change workloads here------------
-201 0.805
-201 curr_state is [['userA', 13], ['userB', 19]]
-201 most_prob_action [13, 19] most_prob_value 0.8816889524459839
-
-202 0.805
-202 curr_state is [['userA', 13], ['userB', 19]]
-202 most_prob_action [13, 19] most_prob_value 0.8855054378509521
-
-203 0.805
-203 curr_state is [['userA', 13], ['userB', 19]]
-203 most_prob_action [13, 19] most_prob_value 0.8908340930938721
-
-204 0.805
-204 curr_state is [['userA', 13], ['userB', 19]]
-204 most_prob_action [13, 19] most_prob_value 0.8957759141921997
-
-205 1.195
-205 curr_state is [['userA', 31], ['userB', 1]]
-205 most_prob_action [13, 19] most_prob_value 0.8315432071685791
-
-206 0.805
-206 curr_state is [['userA', 13], ['userB', 19]]
-206 most_prob_action [13, 19] most_prob_value 0.9041467308998108
-
-207 0.805
-207 curr_state is [['userA', 13], ['userB', 19]]
-207 most_prob_action [13, 19] most_prob_value 0.9064949154853821
-
-208 1.2100000000000002
-208 curr_state is [['userA', 30], ['userB', 2]]
-208 most_prob_action [13, 19] most_prob_value 0.8368857502937317
-
-209 0.805
-209 curr_state is [['userA', 13], ['userB', 19]]
-209 most_prob_action [13, 19] most_prob_value 0.910546600818634
-
-210 1.3
-210 curr_state is [['userA', 24], ['userB', 8]]
-210 most_prob_action [13, 19] most_prob_value 0.8201078772544861
-
-211 0.805
-211 curr_state is [['userA', 13], ['userB', 19]]
-211 most_prob_action [13, 19] most_prob_value 0.913716197013855
-
-212 0.805
-212 curr_state is [['userA', 13], ['userB', 19]]
-212 most_prob_action [13, 19] most_prob_value 0.9154688715934753
-
-213 1.225
-213 curr_state is [['userA', 29], ['userB', 3]]
-213 most_prob_action [13, 19] most_prob_value 0.8405928611755371
-
-214 0.805
-214 curr_state is [['userA', 13], ['userB', 19]]
-214 most_prob_action [13, 19] most_prob_value 0.9169783592224121
-
-215 0.805
-215 curr_state is [['userA', 13], ['userB', 19]]
-215 most_prob_action [13, 19] most_prob_value 0.9176305532455444
-
-216 0.805
-216 curr_state is [['userA', 13], ['userB', 19]]
-216 most_prob_action [13, 19] most_prob_value 0.918042004108429
-
-217 0.805
-217 curr_state is [['userA', 13], ['userB', 19]]
-217 most_prob_action [13, 19] most_prob_value 0.9185977578163147
-
-218 1.2400000000000002
-218 curr_state is [['userA', 28], ['userB', 4]]
-218 most_prob_action [13, 19] most_prob_value 0.8377938866615295
-
-219 0.805
-219 curr_state is [['userA', 13], ['userB', 19]]
-219 most_prob_action [13, 19] most_prob_value 0.9176449179649353
-
-220 1.2400000000000002
-220 curr_state is [['userA', 28], ['userB', 4]]
-220 most_prob_action [13, 19] most_prob_value 0.8347929120063782
-
-221 1.21
-221 curr_state is [['userA', 22], ['userB', 10]]
-221 most_prob_action [13, 19] most_prob_value 0.8219475746154785
-
-222 1.21
-222 curr_state is [['userA', 22], ['userB', 10]]
-222 most_prob_action [13, 19] most_prob_value 0.8167919516563416
-
-223 0.805
-223 curr_state is [['userA', 13], ['userB', 19]]
-223 most_prob_action [13, 19] most_prob_value 0.9087618589401245
-
-224 0.805
-224 curr_state is [['userA', 13], ['userB', 19]]
-224 most_prob_action [13, 19] most_prob_value 0.9067832231521606
-
-225 0.805
-225 curr_state is [['userA', 13], ['userB', 19]]
-225 most_prob_action [13, 19] most_prob_value 0.905081033706665
-
-226 0.805
-226 curr_state is [['userA', 13], ['userB', 19]]
-226 most_prob_action [13, 19] most_prob_value 0.9039285778999329
-
-227 0.805
-227 curr_state is [['userA', 13], ['userB', 19]]
-227 most_prob_action [13, 19] most_prob_value 0.9034682512283325
-
-228 0.805
-228 curr_state is [['userA', 13], ['userB', 19]]
-228 most_prob_action [13, 19] most_prob_value 0.9032624959945679
-
-229 0.805
-229 curr_state is [['userA', 13], ['userB', 19]]
-229 most_prob_action [13, 19] most_prob_value 0.9031942486763
-
-230 1.3
-230 curr_state is [['userA', 24], ['userB', 8]]
-230 most_prob_action [13, 19] most_prob_value 0.7974327802658081
-
-231 0.805
-231 curr_state is [['userA', 13], ['userB', 19]]
-231 most_prob_action [13, 19] most_prob_value 0.900883674621582
-
-232 1.195
-232 curr_state is [['userA', 31], ['userB', 1]]
-232 most_prob_action [13, 19] most_prob_value 0.8172116279602051
-
-233 1.225
-233 curr_state is [['userA', 29], ['userB', 3]]
-233 most_prob_action [13, 19] most_prob_value 0.807384729385376
-
-234 1.195
-234 curr_state is [['userA', 31], ['userB', 1]]
-234 most_prob_action [13, 19] most_prob_value 0.8074681162834167
-
-235 1.3
-235 curr_state is [['userA', 24], ['userB', 8]]
-235 most_prob_action [13, 19] most_prob_value 0.7744660973548889
-
-236 1.2100000000000002
-236 curr_state is [['userA', 30], ['userB', 2]]
-236 most_prob_action [13, 19] most_prob_value 0.789770245552063
-
-237 0.805
-237 curr_state is [['userA', 13], ['userB', 19]]
-237 most_prob_action [13, 19] most_prob_value 0.8753969073295593
-
-238 0.805
-238 curr_state is [['userA', 13], ['userB', 19]]
-238 most_prob_action [13, 19] most_prob_value 0.8710099458694458
-
-239 0.805
-239 curr_state is [['userA', 13], ['userB', 19]]
-239 most_prob_action [13, 19] most_prob_value 0.8679215908050537
-
-240 1.1199999999999999
-240 curr_state is [['userA', 20], ['userB', 12]]
-240 most_prob_action [13, 19] most_prob_value 0.7539470791816711
-
-241 1.3
-241 curr_state is [['userA', 24], ['userB', 8]]
-241 most_prob_action [13, 19] most_prob_value 0.7319211959838867
-
-242 0.805
-242 curr_state is [['userA', 13], ['userB', 19]]
-242 most_prob_action [13, 19] most_prob_value 0.8522393107414246
-
-243 0.805
-243 curr_state is [['userA', 13], ['userB', 19]]
-243 most_prob_action [13, 19] most_prob_value 0.8489445447921753
-
-244 0.805
-244 curr_state is [['userA', 13], ['userB', 19]]
-244 most_prob_action [13, 19] most_prob_value 0.8478901386260986
-
-245 0.805
-245 curr_state is [['userA', 13], ['userB', 19]]
-245 most_prob_action [13, 19] most_prob_value 0.8463546633720398
-
-246 0.805
-246 curr_state is [['userA', 13], ['userB', 19]]
-246 most_prob_action [13, 19] most_prob_value 0.845772385597229
-
-247 1.2100000000000002
-247 curr_state is [['userA', 30], ['userB', 2]]
-247 most_prob_action [13, 19] most_prob_value 0.7372128963470459
-
-248 0.805
-248 curr_state is [['userA', 13], ['userB', 19]]
-248 most_prob_action [13, 19] most_prob_value 0.8367510437965393
-
-249 1.2550000000000001
-249 curr_state is [['userA', 27], ['userB', 5]]
-249 most_prob_action [13, 19] most_prob_value 0.712139904499054
-
-250 0.625
-250 curr_state is [['userA', 9], ['userB', 23]]
-250 most_prob_action [13, 19] most_prob_value 0.8851324319839478
-
-251 1.195
-251 curr_state is [['userA', 31], ['userB', 1]]
-251 most_prob_action [13, 19] most_prob_value 0.7032582759857178
-
-252 1.2100000000000002
-252 curr_state is [['userA', 30], ['userB', 2]]
-252 most_prob_action [13, 19] most_prob_value 0.6869204044342041
-
-253 0.805
-253 curr_state is [['userA', 13], ['userB', 19]]
-253 most_prob_action [13, 19] most_prob_value 0.7925719022750854
-
-254 0.985
-254 curr_state is [['userA', 17], ['userB', 15]]
-254 most_prob_action [13, 19] most_prob_value 0.6837183237075806
-
-255 0.76
-255 curr_state is [['userA', 12], ['userB', 20]]
-255 most_prob_action [13, 19] most_prob_value 0.789214015007019
-
-256 1.1199999999999999
-256 curr_state is [['userA', 20], ['userB', 12]]
-256 most_prob_action [13, 19] most_prob_value 0.6128235459327698
-
-257 1.2400000000000002
-257 curr_state is [['userA', 28], ['userB', 4]]
-257 most_prob_action [13, 19] most_prob_value 0.6071455478668213
-
-258 0.805
-258 curr_state is [['userA', 13], ['userB', 19]]
-258 most_prob_action [13, 19] most_prob_value 0.726529598236084
-
-259 0.805
-259 curr_state is [['userA', 13], ['userB', 19]]
-259 most_prob_action [13, 19] most_prob_value 0.7163867950439453
-
-260 0.445
-260 curr_state is [['userA', 5], ['userB', 27]]
-260 most_prob_action [13, 19] most_prob_value 0.8586056232452393
-
-261 1.2850000000000001
-261 curr_state is [['userA', 25], ['userB', 7]]
-261 most_prob_action [13, 19] most_prob_value 0.5410045385360718
-
-262 1.2100000000000002
-262 curr_state is [['userA', 30], ['userB', 2]]
-262 most_prob_action [13, 19] most_prob_value 0.5299754738807678
-
-263 0.805
-263 curr_state is [['userA', 13], ['userB', 19]]
-263 most_prob_action [13, 19] most_prob_value 0.657856285572052
-
-264 1.2100000000000002
-264 curr_state is [['userA', 30], ['userB', 2]]
-264 most_prob_action [13, 19] most_prob_value 0.49725544452667236
-
-265 1.2100000000000002
-265 curr_state is [['userA', 30], ['userB', 2]]
-265 most_prob_action [13, 19] most_prob_value 0.47781509160995483
-
-266 1.2100000000000002
-266 curr_state is [['userA', 30], ['userB', 2]]
-266 most_prob_action [13, 19] most_prob_value 0.4592495262622833
-
-267 1.225
-267 curr_state is [['userA', 29], ['userB', 3]]
-267 most_prob_action [13, 19] most_prob_value 0.43993034958839417
-
-268 1.3
-268 curr_state is [['userA', 24], ['userB', 8]]
-268 most_prob_action [13, 19] most_prob_value 0.41033780574798584
-
-269 1.2100000000000002
-269 curr_state is [['userA', 30], ['userB', 2]]
-269 most_prob_action [13, 19] most_prob_value 0.39794284105300903
-
-270 1.2100000000000002
-270 curr_state is [['userA', 30], ['userB', 2]]
-270 most_prob_action [13, 19] most_prob_value 0.37910035252571106
-
-271 1.225
-271 curr_state is [['userA', 29], ['userB', 3]]
-271 most_prob_action [13, 19] most_prob_value 0.35726872086524963
-
-272 1.195
-272 curr_state is [['userA', 31], ['userB', 1]]
-272 most_prob_action [13, 19] most_prob_value 0.33498701453208923
-
-273 1.27
-273 curr_state is [['userA', 26], ['userB', 6]]
-273 most_prob_action [13, 19] most_prob_value 0.3080464005470276
-
-274 1.2100000000000002
-274 curr_state is [['userA', 30], ['userB', 2]]
-274 most_prob_action [13, 19] most_prob_value 0.2915441393852234
-
-275 1.2400000000000002
-275 curr_state is [['userA', 28], ['userB', 4]]
-275 most_prob_action [13, 19] most_prob_value 0.2697407007217407
-
-276 1.2100000000000002
-276 curr_state is [['userA', 30], ['userB', 2]]
-276 most_prob_action [13, 19] most_prob_value 0.24898457527160645
-
-277 1.225
-277 curr_state is [['userA', 29], ['userB', 3]]
-277 most_prob_action [13, 19] most_prob_value 0.22573867440223694
-
-278 0.805
-278 curr_state is [['userA', 13], ['userB', 19]]
-278 most_prob_action [30, 2] most_prob_value 0.2683504521846771
-
-279 1.2100000000000002
-279 curr_state is [['userA', 30], ['userB', 2]]
-279 most_prob_action [30, 2] most_prob_value 0.2567492425441742
-
-280 1.2100000000000002
-280 curr_state is [['userA', 30], ['userB', 2]]
-280 most_prob_action [30, 2] most_prob_value 0.30381450057029724
-
-281 1.195
-281 curr_state is [['userA', 31], ['userB', 1]]
-281 most_prob_action [30, 2] most_prob_value 0.35736003518104553
-
-282 1.2100000000000002
-282 curr_state is [['userA', 30], ['userB', 2]]
-282 most_prob_action [30, 2] most_prob_value 0.4088951647281647
-
-283 1.2100000000000002
-283 curr_state is [['userA', 30], ['userB', 2]]
-283 most_prob_action [30, 2] most_prob_value 0.46734103560447693
-
-284 1.2100000000000002
-284 curr_state is [['userA', 30], ['userB', 2]]
-284 most_prob_action [30, 2] most_prob_value 0.5295953750610352
-
-285 1.2100000000000002
-285 curr_state is [['userA', 30], ['userB', 2]]
-285 most_prob_action [30, 2] most_prob_value 0.591584324836731
-
-286 1.2100000000000002
-286 curr_state is [['userA', 30], ['userB', 2]]
-286 most_prob_action [30, 2] most_prob_value 0.6523510813713074
-
-287 1.2100000000000002
-287 curr_state is [['userA', 30], ['userB', 2]]
-287 most_prob_action [30, 2] most_prob_value 0.7108080983161926
-
-288 1.2100000000000002
-288 curr_state is [['userA', 30], ['userB', 2]]
-288 most_prob_action [30, 2] most_prob_value 0.7651265263557434
-
-289 1.2100000000000002
-289 curr_state is [['userA', 30], ['userB', 2]]
-289 most_prob_action [30, 2] most_prob_value 0.8125610947608948
-
-290 1.2100000000000002
-290 curr_state is [['userA', 30], ['userB', 2]]
-290 most_prob_action [30, 2] most_prob_value 0.8514499068260193
-
-291 1.2100000000000002
-291 curr_state is [['userA', 30], ['userB', 2]]
-291 most_prob_action [30, 2] most_prob_value 0.8828859329223633
-
-292 1.2100000000000002
-292 curr_state is [['userA', 30], ['userB', 2]]
-292 most_prob_action [30, 2] most_prob_value 0.9076880812644958
-
-293 1.2100000000000002
-293 curr_state is [['userA', 30], ['userB', 2]]
-293 most_prob_action [30, 2] most_prob_value 0.9276142120361328
-
-294 1.2100000000000002
-294 curr_state is [['userA', 30], ['userB', 2]]
-294 most_prob_action [30, 2] most_prob_value 0.9427386522293091
-
-295 1.2100000000000002
-295 curr_state is [['userA', 30], ['userB', 2]]
-295 most_prob_action [30, 2] most_prob_value 0.9550610780715942
-
-296 1.2100000000000002
-296 curr_state is [['userA', 30], ['userB', 2]]
-296 most_prob_action [30, 2] most_prob_value 0.9641971588134766
-
-297 1.2100000000000002
-297 curr_state is [['userA', 30], ['userB', 2]]
-297 most_prob_action [30, 2] most_prob_value 0.9711313247680664
-
-298 1.2100000000000002
-298 curr_state is [['userA', 30], ['userB', 2]]
-298 most_prob_action [30, 2] most_prob_value 0.9767639636993408
-
-299 1.2100000000000002
-299 curr_state is [['userA', 30], ['userB', 2]]
-299 most_prob_action [30, 2] most_prob_value 0.9810370206832886
-
-300 1.2100000000000002
-300 curr_state is [['userA', 30], ['userB', 2]]
-300 most_prob_action [30, 2] most_prob_value 0.9842904210090637
-
-301 1.2100000000000002
-301 curr_state is [['userA', 30], ['userB', 2]]
-301 most_prob_action [30, 2] most_prob_value 0.9869211912155151
-
-302 1.2100000000000002
-302 curr_state is [['userA', 30], ['userB', 2]]
-302 most_prob_action [30, 2] most_prob_value 0.9889078736305237
-
-303 1.2100000000000002
-303 curr_state is [['userA', 30], ['userB', 2]]
-303 most_prob_action [30, 2] most_prob_value 0.9907051920890808
-
-304 1.2100000000000002
-304 curr_state is [['userA', 30], ['userB', 2]]
-304 most_prob_action [30, 2] most_prob_value 0.9921024441719055
-
-305 1.2100000000000002
-305 curr_state is [['userA', 30], ['userB', 2]]
-305 most_prob_action [30, 2] most_prob_value 0.993202269077301
-
-306 1.2100000000000002
-306 curr_state is [['userA', 30], ['userB', 2]]
-306 most_prob_action [30, 2] most_prob_value 0.994078516960144
-
-307 1.2100000000000002
-307 curr_state is [['userA', 30], ['userB', 2]]
-307 most_prob_action [30, 2] most_prob_value 0.9947836995124817
-
-308 1.2100000000000002
-308 curr_state is [['userA', 30], ['userB', 2]]
-308 most_prob_action [30, 2] most_prob_value 0.9953575730323792
-
-309 1.2100000000000002
-309 curr_state is [['userA', 30], ['userB', 2]]
-309 most_prob_action [30, 2] most_prob_value 0.9958294034004211
-
-310 1.2100000000000002
-310 curr_state is [['userA', 30], ['userB', 2]]
-310 most_prob_action [30, 2] most_prob_value 0.9963884353637695
-
-311 1.2100000000000002
-311 curr_state is [['userA', 30], ['userB', 2]]
-311 most_prob_action [30, 2] most_prob_value 0.9968346953392029
-
-312 1.2100000000000002
-312 curr_state is [['userA', 30], ['userB', 2]]
-312 most_prob_action [30, 2] most_prob_value 0.9971950054168701
-
-313 1.2100000000000002
-313 curr_state is [['userA', 30], ['userB', 2]]
-313 most_prob_action [30, 2] most_prob_value 0.9974888563156128
-
-314 1.2100000000000002
-314 curr_state is [['userA', 30], ['userB', 2]]
-314 most_prob_action [30, 2] most_prob_value 0.9977309107780457
-
-315 1.2100000000000002
-315 curr_state is [['userA', 30], ['userB', 2]]
-315 most_prob_action [30, 2] most_prob_value 0.997931957244873
-
-316 1.2100000000000002
-316 curr_state is [['userA', 30], ['userB', 2]]
-316 most_prob_action [30, 2] most_prob_value 0.9981004595756531
-
-317 1.2100000000000002
-317 curr_state is [['userA', 30], ['userB', 2]]
-317 most_prob_action [30, 2] most_prob_value 0.9982427358627319
-
-318 1.2100000000000002
-318 curr_state is [['userA', 30], ['userB', 2]]
-318 most_prob_action [30, 2] most_prob_value 0.9983635544776917
-
-319 1.2100000000000002
-319 curr_state is [['userA', 30], ['userB', 2]]
-319 most_prob_action [30, 2] most_prob_value 0.9984596967697144
-
-320 1.2100000000000002
-320 curr_state is [['userA', 30], ['userB', 2]]
-320 most_prob_action [30, 2] most_prob_value 0.9985431432723999
-
-321 1.2100000000000002
-321 curr_state is [['userA', 30], ['userB', 2]]
-321 most_prob_action [30, 2] most_prob_value 0.9986156225204468
-
-322 1.2100000000000002
-322 curr_state is [['userA', 30], ['userB', 2]]
-322 most_prob_action [30, 2] most_prob_value 0.9986788630485535
-
-323 1.2100000000000002
-323 curr_state is [['userA', 30], ['userB', 2]]
-323 most_prob_action [30, 2] most_prob_value 0.9987346529960632
-
-324 1.2100000000000002
-324 curr_state is [['userA', 30], ['userB', 2]]
-324 most_prob_action [30, 2] most_prob_value 0.9987838864326477
-
-325 1.2100000000000002
-325 curr_state is [['userA', 30], ['userB', 2]]
-325 most_prob_action [30, 2] most_prob_value 0.9988273978233337
-
-326 1.2100000000000002
-326 curr_state is [['userA', 30], ['userB', 2]]
-326 most_prob_action [30, 2] most_prob_value 0.9988662004470825
-
-327 1.2100000000000002
-327 curr_state is [['userA', 30], ['userB', 2]]
-327 most_prob_action [30, 2] most_prob_value 0.9989007711410522
-
-328 1.2100000000000002
-328 curr_state is [['userA', 30], ['userB', 2]]
-328 most_prob_action [30, 2] most_prob_value 0.998927891254425
-
-329 1.2100000000000002
-329 curr_state is [['userA', 30], ['userB', 2]]
-329 most_prob_action [30, 2] most_prob_value 0.9989521503448486
-
-330 1.2100000000000002
-330 curr_state is [['userA', 30], ['userB', 2]]
-330 most_prob_action [30, 2] most_prob_value 0.9989744424819946
-
-331 1.2100000000000002
-331 curr_state is [['userA', 30], ['userB', 2]]
-331 most_prob_action [30, 2] most_prob_value 0.998994767665863
-
-332 1.2100000000000002
-332 curr_state is [['userA', 30], ['userB', 2]]
-332 most_prob_action [30, 2] most_prob_value 0.9990131855010986
-
-333 1.2100000000000002
-333 curr_state is [['userA', 30], ['userB', 2]]
-333 most_prob_action [30, 2] most_prob_value 0.999030351638794
-
-334 1.2100000000000002
-334 curr_state is [['userA', 30], ['userB', 2]]
-334 most_prob_action [30, 2] most_prob_value 0.9990457892417908
-
-335 1.2100000000000002
-335 curr_state is [['userA', 30], ['userB', 2]]
-335 most_prob_action [30, 2] most_prob_value 0.9990600943565369
-
-336 1.2100000000000002
-336 curr_state is [['userA', 30], ['userB', 2]]
-336 most_prob_action [30, 2] most_prob_value 0.9990735054016113
-
-337 1.2100000000000002
-337 curr_state is [['userA', 30], ['userB', 2]]
-337 most_prob_action [30, 2] most_prob_value 0.9990859031677246
-
-338 1.2100000000000002
-338 curr_state is [['userA', 30], ['userB', 2]]
-338 most_prob_action [30, 2] most_prob_value 0.9990972280502319
-
-339 1.2100000000000002
-339 curr_state is [['userA', 30], ['userB', 2]]
-339 most_prob_action [30, 2] most_prob_value 0.9991077780723572
-
-340 1.2100000000000002
-340 curr_state is [['userA', 30], ['userB', 2]]
-340 most_prob_action [30, 2] most_prob_value 0.9991175532341003
-
-341 1.2100000000000002
-341 curr_state is [['userA', 30], ['userB', 2]]
-341 most_prob_action [30, 2] most_prob_value 0.9991269707679749
-
-342 1.2100000000000002
-342 curr_state is [['userA', 30], ['userB', 2]]
-342 most_prob_action [30, 2] most_prob_value 0.9991356730461121
-
-343 1.2100000000000002
-343 curr_state is [['userA', 30], ['userB', 2]]
-343 most_prob_action [30, 2] most_prob_value 0.9991436004638672
-
-344 1.2100000000000002
-344 curr_state is [['userA', 30], ['userB', 2]]
-344 most_prob_action [30, 2] most_prob_value 0.999151349067688
-
-345 1.2100000000000002
-345 curr_state is [['userA', 30], ['userB', 2]]
-345 most_prob_action [30, 2] most_prob_value 0.9991583824157715
-
-346 1.2100000000000002
-346 curr_state is [['userA', 30], ['userB', 2]]
-346 most_prob_action [30, 2] most_prob_value 0.9991652965545654
-
-347 1.2100000000000002
-347 curr_state is [['userA', 30], ['userB', 2]]
-347 most_prob_action [30, 2] most_prob_value 0.9991717338562012
-
-348 1.2100000000000002
-348 curr_state is [['userA', 30], ['userB', 2]]
-348 most_prob_action [30, 2] most_prob_value 0.9991777539253235
-
-349 1.2100000000000002
-349 curr_state is [['userA', 30], ['userB', 2]]
-349 most_prob_action [30, 2] most_prob_value 0.9991834759712219
-
-350 1.2100000000000002
-350 curr_state is [['userA', 30], ['userB', 2]]
-350 most_prob_action [30, 2] most_prob_value 0.9991888403892517
-
-351 1.2100000000000002
-351 curr_state is [['userA', 30], ['userB', 2]]
-351 most_prob_action [30, 2] most_prob_value 0.9991940855979919
-
-352 1.2100000000000002
-352 curr_state is [['userA', 30], ['userB', 2]]
-352 most_prob_action [30, 2] most_prob_value 0.9991989731788635
-
-353 1.2100000000000002
-353 curr_state is [['userA', 30], ['userB', 2]]
-353 most_prob_action [30, 2] most_prob_value 0.9992037415504456
-
-354 1.2100000000000002
-354 curr_state is [['userA', 30], ['userB', 2]]
-354 most_prob_action [30, 2] most_prob_value 0.9992080330848694
-
-355 1.2100000000000002
-355 curr_state is [['userA', 30], ['userB', 2]]
-355 most_prob_action [30, 2] most_prob_value 0.9992125034332275
-
-356 1.2100000000000002
-356 curr_state is [['userA', 30], ['userB', 2]]
-356 most_prob_action [30, 2] most_prob_value 0.9992164373397827
-
-357 1.2100000000000002
-357 curr_state is [['userA', 30], ['userB', 2]]
-357 most_prob_action [30, 2] most_prob_value 0.9992203712463379
-
-358 1.2100000000000002
-358 curr_state is [['userA', 30], ['userB', 2]]
-358 most_prob_action [30, 2] most_prob_value 0.9992239475250244
-
-359 1.2100000000000002
-359 curr_state is [['userA', 30], ['userB', 2]]
-359 most_prob_action [30, 2] most_prob_value 0.9992276430130005
-
-360 1.2100000000000002
-360 curr_state is [['userA', 30], ['userB', 2]]
-360 most_prob_action [30, 2] most_prob_value 0.9992320537567139
-
-361 1.2100000000000002
-361 curr_state is [['userA', 30], ['userB', 2]]
-361 most_prob_action [30, 2] most_prob_value 0.9992362260818481
-
-362 1.2100000000000002
-362 curr_state is [['userA', 30], ['userB', 2]]
-362 most_prob_action [30, 2] most_prob_value 0.9992401599884033
-
-363 1.2100000000000002
-363 curr_state is [['userA', 30], ['userB', 2]]
-363 most_prob_action [30, 2] most_prob_value 0.9992438554763794
-
-364 1.2100000000000002
-364 curr_state is [['userA', 30], ['userB', 2]]
-364 most_prob_action [30, 2] most_prob_value 0.9992474317550659
-
-365 1.2100000000000002
-365 curr_state is [['userA', 30], ['userB', 2]]
-365 most_prob_action [30, 2] most_prob_value 0.9992507100105286
-
-366 1.2100000000000002
-366 curr_state is [['userA', 30], ['userB', 2]]
-366 most_prob_action [30, 2] most_prob_value 0.9992539286613464
-
-367 1.2100000000000002
-367 curr_state is [['userA', 30], ['userB', 2]]
-367 most_prob_action [30, 2] most_prob_value 0.9992570281028748
-
-368 1.2100000000000002
-368 curr_state is [['userA', 30], ['userB', 2]]
-368 most_prob_action [30, 2] most_prob_value 0.9992600083351135
-
-369 1.2100000000000002
-369 curr_state is [['userA', 30], ['userB', 2]]
-369 most_prob_action [30, 2] most_prob_value 0.9992627501487732
-
-370 1.2100000000000002
-370 curr_state is [['userA', 30], ['userB', 2]]
-370 most_prob_action [30, 2] most_prob_value 0.9992654919624329
-
-371 1.2100000000000002
-371 curr_state is [['userA', 30], ['userB', 2]]
-371 most_prob_action [30, 2] most_prob_value 0.9992679953575134
-
-372 1.2100000000000002
-372 curr_state is [['userA', 30], ['userB', 2]]
-372 most_prob_action [30, 2] most_prob_value 0.999270498752594
-
-373 1.2100000000000002
-373 curr_state is [['userA', 30], ['userB', 2]]
-373 most_prob_action [30, 2] most_prob_value 0.999272882938385
-
-374 1.2100000000000002
-374 curr_state is [['userA', 30], ['userB', 2]]
-374 most_prob_action [30, 2] most_prob_value 0.999275267124176
-
-375 1.2100000000000002
-375 curr_state is [['userA', 30], ['userB', 2]]
-375 most_prob_action [30, 2] most_prob_value 0.9992774128913879
-
-376 1.2100000000000002
-376 curr_state is [['userA', 30], ['userB', 2]]
-376 most_prob_action [30, 2] most_prob_value 0.9992794394493103
-
-377 1.2100000000000002
-377 curr_state is [['userA', 30], ['userB', 2]]
-377 most_prob_action [30, 2] most_prob_value 0.9992814660072327
-
-378 1.2100000000000002
-378 curr_state is [['userA', 30], ['userB', 2]]
-378 most_prob_action [30, 2] most_prob_value 0.9992833733558655
-
-379 1.2100000000000002
-379 curr_state is [['userA', 30], ['userB', 2]]
-379 most_prob_action [30, 2] most_prob_value 0.9992852807044983
-
-380 1.2100000000000002
-380 curr_state is [['userA', 30], ['userB', 2]]
-380 most_prob_action [30, 2] most_prob_value 0.9992871880531311
-
-381 1.2100000000000002
-381 curr_state is [['userA', 30], ['userB', 2]]
-381 most_prob_action [30, 2] most_prob_value 0.99928879737854
-
-382 1.2100000000000002
-382 curr_state is [['userA', 30], ['userB', 2]]
-382 most_prob_action [30, 2] most_prob_value 0.9992905855178833
-
-383 1.2100000000000002
-383 curr_state is [['userA', 30], ['userB', 2]]
-383 most_prob_action [30, 2] most_prob_value 0.999292254447937
-
-384 1.2100000000000002
-384 curr_state is [['userA', 30], ['userB', 2]]
-384 most_prob_action [30, 2] most_prob_value 0.9992939233779907
-
-385 1.2100000000000002
-385 curr_state is [['userA', 30], ['userB', 2]]
-385 most_prob_action [30, 2] most_prob_value 0.9992953538894653
-
-386 1.2100000000000002
-386 curr_state is [['userA', 30], ['userB', 2]]
-386 most_prob_action [30, 2] most_prob_value 0.9992969036102295
-
-387 1.2100000000000002
-387 curr_state is [['userA', 30], ['userB', 2]]
-387 most_prob_action [30, 2] most_prob_value 0.9992984533309937
-
-388 1.2100000000000002
-388 curr_state is [['userA', 30], ['userB', 2]]
-388 most_prob_action [30, 2] most_prob_value 0.9992998838424683
-
-389 1.2100000000000002
-389 curr_state is [['userA', 30], ['userB', 2]]
-389 most_prob_action [30, 2] most_prob_value 0.9993011951446533
-
-390 1.2100000000000002
-390 curr_state is [['userA', 30], ['userB', 2]]
-390 most_prob_action [30, 2] most_prob_value 0.9993025064468384
-
-391 1.2100000000000002
-391 curr_state is [['userA', 30], ['userB', 2]]
-391 most_prob_action [30, 2] most_prob_value 0.999303936958313
-
-392 1.2100000000000002
-392 curr_state is [['userA', 30], ['userB', 2]]
-392 most_prob_action [30, 2] most_prob_value 0.999305248260498
-
-393 1.2100000000000002
-393 curr_state is [['userA', 30], ['userB', 2]]
-393 most_prob_action [30, 2] most_prob_value 0.9993064403533936
-
-394 1.2100000000000002
-394 curr_state is [['userA', 30], ['userB', 2]]
-394 most_prob_action [30, 2] most_prob_value 0.9993077516555786
-
-395 1.2100000000000002
-395 curr_state is [['userA', 30], ['userB', 2]]
-395 most_prob_action [30, 2] most_prob_value 0.9993088245391846
-
-396 1.2100000000000002
-396 curr_state is [['userA', 30], ['userB', 2]]
-396 most_prob_action [30, 2] most_prob_value 0.9993098974227905
-
-397 1.2100000000000002
-397 curr_state is [['userA', 30], ['userB', 2]]
-397 most_prob_action [30, 2] most_prob_value 0.9993112087249756
-
-398 1.2100000000000002
-398 curr_state is [['userA', 30], ['userB', 2]]
-398 most_prob_action [30, 2] most_prob_value 0.9993122816085815
-
-399 1.2100000000000002
-399 curr_state is [['userA', 30], ['userB', 2]]
-399 most_prob_action [30, 2] most_prob_value 0.999313235282898
-
-400 1.2100000000000002
-400 curr_state is [['userA', 30], ['userB', 2]]
-400 most_prob_action [30, 2] most_prob_value 0.9993143081665039
+201 5.305
+201 curr_state is [['user0', 64], ['user1', 14], ['user2', 100], ['user3', 222]]
+201 most_prob_action [0, -2, 0, 2] most_prob_value 0.8593906760215759
+
+202 5.3825
+202 curr_state is [['user0', 66], ['user1', 20], ['user2', 100], ['user3', 214]]
+202 most_prob_action [0, -2, 0, 2] most_prob_value 0.8368635177612305
+
+203 5.3975
+203 curr_state is [['user0', 68], ['user1', 16], ['user2', 100], ['user3', 216]]
+203 most_prob_action [0, -2, 0, 2] most_prob_value 0.7447841167449951
+
+204 5.1525
+204 curr_state is [['user0', 52], ['user1', 28], ['user2', 100], ['user3', 220]]
+204 most_prob_action [0, -2, 0, 2] most_prob_value 0.9536489248275757
+
+205 5.2775
+205 curr_state is [['user0', 62], ['user1', 16], ['user2', 100], ['user3', 222]]
+205 most_prob_action [0, -2, 0, 2] most_prob_value 0.9404350519180298
+
+206 5.4
+206 curr_state is [['user0', 70], ['user1', 10], ['user2', 100], ['user3', 220]]
+206 most_prob_action [0, -2, 0, 2] most_prob_value 0.9309081435203552
+
+207 5.5075
+207 curr_state is [['user0', 76], ['user1', 8], ['user2', 100], ['user3', 216]]
+207 most_prob_action [0, -2, 0, 2] most_prob_value 0.8540861010551453
+
+208 5.4825
+208 curr_state is [['user0', 76], ['user1', 4], ['user2', 100], ['user3', 220]]
+208 most_prob_action [0, -2, 0, 2] most_prob_value 0.757102370262146
+
+209 5.4925
+209 curr_state is [['user0', 74], ['user1', 12], ['user2', 100], ['user3', 214]]
+209 most_prob_action [0, -2, 0, 2] most_prob_value 0.7260952591896057
+
+210 5.5025
+210 curr_state is [['user0', 72], ['user1', 20], ['user2', 100], ['user3', 208]]
+210 most_prob_action [0, -2, 0, 2] most_prob_value 0.7383108139038086
+
+211 5.4775
+211 curr_state is [['user0', 72], ['user1', 16], ['user2', 100], ['user3', 212]]
+211 most_prob_action [0, -2, 0, 2] most_prob_value 0.6835532188415527
+
+212 5.405
+212 curr_state is [['user0', 64], ['user1', 30], ['user2', 100], ['user3', 206]]
+212 most_prob_action [0, -2, 0, 2] most_prob_value 0.8690687417984009
+
+213 5.5175
+213 curr_state is [['user0', 74], ['user1', 16], ['user2', 100], ['user3', 210]]
+213 most_prob_action [0, -2, 0, 2] most_prob_value 0.7559020519256592
+
+214 5.5275
+214 curr_state is [['user0', 72], ['user1', 24], ['user2', 100], ['user3', 204]]
+214 most_prob_action [0, -2, 0, 2] most_prob_value 0.6356652975082397
+
+215 5.512499999999999
+215 curr_state is [['user0', 70], ['user1', 28], ['user2', 100], ['user3', 202]]
+215 most_prob_action [0, -2, 0, 2] most_prob_value 0.5324463248252869
+
+216 5.5075
+216 curr_state is [['user0', 66], ['user1', 40], ['user2', 100], ['user3', 194]]
+216 most_prob_action [0, -2, 0, 2] most_prob_value 0.5913412570953369
+
+217 5.48
+217 curr_state is [['user0', 64], ['user1', 42], ['user2', 100], ['user3', 194]]
+217 most_prob_action [-2, 2, 0, 0] most_prob_value 0.6600180864334106
+
+218 5.2875
+218 curr_state is [['user0', 46], ['user1', 74], ['user2', 98], ['user3', 182]]
+218 most_prob_action [0, -2, 0, 2] most_prob_value 0.6883471608161926
+
+219 5.28
+219 curr_state is [['user0', 40], ['user1', 92], ['user2', 98], ['user3', 170]]
+219 most_prob_action [0, -2, 0, 2] most_prob_value 0.7421219348907471
+
+220 5.3149999999999995
+220 curr_state is [['user0', 42], ['user1', 86], ['user2', 102], ['user3', 170]]
+220 most_prob_action [-2, 2, 0, 0] most_prob_value 0.5221080780029297
+
+221 5.0
+221 curr_state is [['user0', 26], ['user1', 120], ['user2', 98], ['user3', 156]]
+221 most_prob_action [0, -2, 0, 2] most_prob_value 0.5931068658828735
+
+222 4.7725
+222 curr_state is [['user0', 16], ['user1', 144], ['user2', 100], ['user3', 140]]
+222 most_prob_action [0, -2, 0, 2] most_prob_value 0.7186768054962158
+
+223 5.0675
+223 curr_state is [['user0', 28], ['user1', 122], ['user2', 100], ['user3', 150]]
+223 most_prob_action [0, -2, 0, 2] most_prob_value 0.7090185880661011
+
+224 5.1875
+224 curr_state is [['user0', 32], ['user1', 106], ['user2', 100], ['user3', 162]]
+224 most_prob_action [0, -2, 0, 2] most_prob_value 0.594384491443634
+
+225 5.0175
+225 curr_state is [['user0', 26], ['user1', 126], ['user2', 100], ['user3', 148]]
+225 most_prob_action [0, -2, 0, 2] most_prob_value 0.7016736268997192
+
+226 5.0225
+226 curr_state is [['user0', 26], ['user1', 124], ['user2', 100], ['user3', 150]]
+226 most_prob_action [0, -2, 0, 2] most_prob_value 0.7736232876777649
+
+227 5.1425
+227 curr_state is [['user0', 30], ['user1', 108], ['user2', 102], ['user3', 160]]
+227 most_prob_action [0, -2, 0, 2] most_prob_value 0.8187679052352905
+
+228 5.31
+228 curr_state is [['user0', 38], ['user1', 98], ['user2', 100], ['user3', 164]]
+228 most_prob_action [0, -2, 0, 2] most_prob_value 0.834553062915802
+
+229 5.3275
+229 curr_state is [['user0', 42], ['user1', 88], ['user2', 100], ['user3', 170]]
+229 most_prob_action [0, -2, 0, 2] most_prob_value 0.8873875737190247
+
+230 5.3999999999999995
+230 curr_state is [['user0', 50], ['user1', 74], ['user2', 102], ['user3', 174]]
+230 most_prob_action [0, -2, 0, 2] most_prob_value 0.8723586797714233
+
+231 5.4275
+231 curr_state is [['user0', 52], ['user1', 72], ['user2', 102], ['user3', 174]]
+231 most_prob_action [0, -2, 0, 2] most_prob_value 0.8944716453552246
+
+232 5.4475
+232 curr_state is [['user0', 60], ['user1', 60], ['user2', 96], ['user3', 184]]
+232 most_prob_action [0, -2, 0, 2] most_prob_value 0.7524844408035278
+
+233 5.475
+233 curr_state is [['user0', 60], ['user1', 54], ['user2', 102], ['user3', 184]]
+233 most_prob_action [0, -2, 0, 2] most_prob_value 0.8185209035873413
+
+234 5.4125
+234 curr_state is [['user0', 60], ['user1', 44], ['user2', 110], ['user3', 186]]
+234 most_prob_action [0, -2, 0, 2] most_prob_value 0.7117051482200623
+
+235 5.3725
+235 curr_state is [['user0', 58], ['user1', 44], ['user2', 112], ['user3', 186]]
+235 most_prob_action [0, -2, 0, 2] most_prob_value 0.5941969156265259
+
+236 5.4075
+236 curr_state is [['user0', 56], ['user1', 56], ['user2', 112], ['user3', 176]]
+236 most_prob_action [0, -2, 0, 2] most_prob_value 0.5785610675811768
+
+237 5.3549999999999995
+237 curr_state is [['user0', 54], ['user1', 54], ['user2', 112], ['user3', 180]]
+237 most_prob_action [-2, 2, 0, 0] most_prob_value 0.46406233310699463
+
+238 5.295
+238 curr_state is [['user0', 46], ['user1', 70], ['user2', 116], ['user3', 168]]
+238 most_prob_action [0, -2, 0, 2] most_prob_value 0.7157177925109863
+
+239 5.27
+239 curr_state is [['user0', 46], ['user1', 66], ['user2', 120], ['user3', 168]]
+239 most_prob_action [0, -2, 0, 2] most_prob_value 0.634822428226471
+
+240 5.2525
+240 curr_state is [['user0', 42], ['user1', 76], ['user2', 114], ['user3', 168]]
+240 most_prob_action [0, -2, 0, 2] most_prob_value 0.7625693678855896
+
+241 5.24
+241 curr_state is [['user0', 42], ['user1', 74], ['user2', 120], ['user3', 164]]
+241 most_prob_action [0, -2, 0, 2] most_prob_value 0.6846410036087036
+
+242 5.215
+242 curr_state is [['user0', 42], ['user1', 70], ['user2', 124], ['user3', 164]]
+242 most_prob_action [0, -2, 0, 2] most_prob_value 0.5123512148857117
+
+243 5.3025
+243 curr_state is [['user0', 42], ['user1', 84], ['user2', 110], ['user3', 164]]
+243 most_prob_action [0, -2, 0, 2] most_prob_value 0.5784693956375122
+
+244 5.297499999999999
+244 curr_state is [['user0', 38], ['user1', 96], ['user2', 104], ['user3', 162]]
+244 most_prob_action [0, -2, 0, 2] most_prob_value 0.7373442649841309
+
+245 5.327500000000001
+245 curr_state is [['user0', 42], ['user1', 88], ['user2', 104], ['user3', 166]]
+245 most_prob_action [0, -2, 0, 2] most_prob_value 0.5966987013816833
+
+246 5.422499999999999
+246 curr_state is [['user0', 48], ['user1', 84], ['user2', 102], ['user3', 166]]
+246 most_prob_action [-2, 2, 0, 0] most_prob_value 0.5075912475585938
+
+247 5.34
+247 curr_state is [['user0', 42], ['user1', 90], ['user2', 104], ['user3', 164]]
+247 most_prob_action [0, -2, 0, 2] most_prob_value 0.7659145593643188
+
+248 5.34
+248 curr_state is [['user0', 42], ['user1', 90], ['user2', 102], ['user3', 166]]
+248 most_prob_action [0, -2, 0, 2] most_prob_value 0.8547986745834351
+
+249 5.3275
+249 curr_state is [['user0', 42], ['user1', 88], ['user2', 102], ['user3', 168]]
+249 most_prob_action [0, -2, 0, 2] most_prob_value 0.8788642287254333
+
+250 5.37
+250 curr_state is [['user0', 46], ['user1', 82], ['user2', 102], ['user3', 170]]
+250 most_prob_action [0, -2, 0, 2] most_prob_value 0.8219048380851746
+
+251 5.385000000000001
+251 curr_state is [['user0', 48], ['user1', 78], ['user2', 104], ['user3', 170]]
+251 most_prob_action [0, -2, 0, 2] most_prob_value 0.7790733575820923
+
+252 5.4125
+252 curr_state is [['user0', 50], ['user1', 76], ['user2', 102], ['user3', 172]]
+252 most_prob_action [0, -2, 0, 2] most_prob_value 0.7603136897087097
+
+253 5.4275
+253 curr_state is [['user0', 52], ['user1', 72], ['user2', 104], ['user3', 172]]
+253 most_prob_action [0, -2, 0, 2] most_prob_value 0.7584772109985352
+
+254 5.375
+254 curr_state is [['user0', 50], ['user1', 70], ['user2', 104], ['user3', 176]]
+254 most_prob_action [0, -2, 0, 2] most_prob_value 0.8438577055931091
+
+255 5.46
+255 curr_state is [['user0', 58], ['user1', 58], ['user2', 104], ['user3', 180]]
+255 most_prob_action [0, -2, 0, 2] most_prob_value 0.5990809798240662
+
+256 5.51
+256 curr_state is [['user0', 64], ['user1', 52], ['user2', 98], ['user3', 186]]
+256 most_prob_action [-2, 2, 0, 0] most_prob_value 0.5406558513641357
+
+257 5.529999999999999
+257 curr_state is [['user0', 64], ['user1', 50], ['user2', 100], ['user3', 186]]
+257 most_prob_action [0, -2, 0, 2] most_prob_value 0.66855788230896
+
+258 5.5175
+258 curr_state is [['user0', 64], ['user1', 48], ['user2', 102], ['user3', 186]]
+258 most_prob_action [0, -2, 0, 2] most_prob_value 0.8314643502235413
+
+259 5.5024999999999995
+259 curr_state is [['user0', 62], ['user1', 52], ['user2', 100], ['user3', 186]]
+259 most_prob_action [0, -2, 0, 2] most_prob_value 0.9340785145759583
+
+260 5.575
+260 curr_state is [['user0', 70], ['user1', 38], ['user2', 100], ['user3', 192]]
+260 most_prob_action [0, -2, 0, 2] most_prob_value 0.7481085062026978
+
+261 5.59
+261 curr_state is [['user0', 72], ['user1', 34], ['user2', 100], ['user3', 194]]
+261 most_prob_action [0, -2, 0, 2] most_prob_value 0.7642889022827148
+
+262 5.605
+262 curr_state is [['user0', 74], ['user1', 30], ['user2', 100], ['user3', 196]]
+262 most_prob_action [0, -2, 0, 2] most_prob_value 0.7912442684173584
+
+263 5.619999999999999
+263 curr_state is [['user0', 76], ['user1', 26], ['user2', 100], ['user3', 198]]
+263 most_prob_action [0, -2, 0, 2] most_prob_value 0.7446160316467285
+
+264 5.640000000000001
+264 curr_state is [['user0', 78], ['user1', 28], ['user2', 98], ['user3', 196]]
+264 most_prob_action [0, -2, 0, 2] most_prob_value 0.7176519632339478
+
+265 5.605
+265 curr_state is [['user0', 74], ['user1', 30], ['user2', 100], ['user3', 196]]
+265 most_prob_action [0, -2, 0, 2] most_prob_value 0.7644661664962769
+
+266 5.592499999999999
+266 curr_state is [['user0', 74], ['user1', 28], ['user2', 100], ['user3', 198]]
+266 most_prob_action [0, -2, 0, 2] most_prob_value 0.6721712946891785
+
+267 5.592499999999999
+267 curr_state is [['user0', 74], ['user1', 28], ['user2', 100], ['user3', 198]]
+267 most_prob_action [0, -2, 0, 2] most_prob_value 0.6414980888366699
+
+268 5.605
+268 curr_state is [['user0', 74], ['user1', 30], ['user2', 100], ['user3', 196]]
+268 most_prob_action [0, -2, 0, 2] most_prob_value 0.6798838376998901
+
+269 5.592499999999999
+269 curr_state is [['user0', 74], ['user1', 28], ['user2', 102], ['user3', 196]]
+269 most_prob_action [0, -2, 0, 2] most_prob_value 0.6677603125572205
+
+270 5.619999999999999
+270 curr_state is [['user0', 76], ['user1', 26], ['user2', 100], ['user3', 198]]
+270 most_prob_action [0, -2, 0, 2] most_prob_value 0.5975162982940674
+
+271 5.605
+271 curr_state is [['user0', 74], ['user1', 30], ['user2', 100], ['user3', 196]]
+271 most_prob_action [0, -2, 0, 2] most_prob_value 0.77843177318573
+
+272 5.6225000000000005
+272 curr_state is [['user0', 78], ['user1', 20], ['user2', 100], ['user3', 202]]
+272 most_prob_action [0, -2, 0, 2] most_prob_value 0.5457770824432373
+
+273 5.6075
+273 curr_state is [['user0', 76], ['user1', 24], ['user2', 100], ['user3', 200]]
+273 most_prob_action [0, -2, 0, 2] most_prob_value 0.77164226770401
+
+274 5.65
+274 curr_state is [['user0', 80], ['user1', 18], ['user2', 100], ['user3', 202]]
+274 most_prob_action [0, -2, 0, 2] most_prob_value 0.5842314958572388
+
+275 5.635
+275 curr_state is [['user0', 78], ['user1', 22], ['user2', 100], ['user3', 200]]
+275 most_prob_action [0, -2, 0, 2] most_prob_value 0.7617821097373962
+
+276 5.65
+276 curr_state is [['user0', 80], ['user1', 18], ['user2', 100], ['user3', 202]]
+276 most_prob_action [0, -2, 0, 2] most_prob_value 0.6247215270996094
+
+277 5.665000000000001
+277 curr_state is [['user0', 82], ['user1', 14], ['user2', 100], ['user3', 204]]
+277 most_prob_action [0, -2, 0, 2] most_prob_value 0.49816247820854187
+
+278 5.6075
+278 curr_state is [['user0', 76], ['user1', 24], ['user2', 102], ['user3', 198]]
+278 most_prob_action [0, -2, 0, 2] most_prob_value 0.8627236485481262
+
+279 5.65
+279 curr_state is [['user0', 80], ['user1', 18], ['user2', 100], ['user3', 202]]
+279 most_prob_action [0, -2, 0, 2] most_prob_value 0.7381157875061035
+
+280 5.635
+280 curr_state is [['user0', 78], ['user1', 22], ['user2', 100], ['user3', 200]]
+280 most_prob_action [0, -2, 0, 2] most_prob_value 0.8322979807853699
+
+281 5.672500000000001
+281 curr_state is [['user0', 84], ['user1', 14], ['user2', 98], ['user3', 204]]
+281 most_prob_action [0, -2, 0, 2] most_prob_value 0.5608052611351013
+
+282 5.6274999999999995
+282 curr_state is [['user0', 80], ['user1', 30], ['user2', 94], ['user3', 196]]
+282 most_prob_action [0, -2, 0, 2] most_prob_value 0.9064837694168091
+
+283 5.619999999999999
+283 curr_state is [['user0', 76], ['user1', 26], ['user2', 100], ['user3', 198]]
+283 most_prob_action [0, -2, 0, 2] most_prob_value 0.9404862523078918
+
+284 5.657500000000001
+284 curr_state is [['user0', 82], ['user1', 18], ['user2', 98], ['user3', 202]]
+284 most_prob_action [0, -2, 0, 2] most_prob_value 0.8422909379005432
+
+285 5.665000000000001
+285 curr_state is [['user0', 82], ['user1', 14], ['user2', 100], ['user3', 204]]
+285 most_prob_action [0, -2, 0, 2] most_prob_value 0.8527361750602722
+
+286 5.680000000000001
+286 curr_state is [['user0', 84], ['user1', 10], ['user2', 100], ['user3', 206]]
+286 most_prob_action [0, -2, 0, 2] most_prob_value 0.8324145674705505
+
+287 5.695
+287 curr_state is [['user0', 86], ['user1', 6], ['user2', 100], ['user3', 208]]
+287 most_prob_action [0, -2, 0, 2] most_prob_value 0.8201579451560974
+
+288 5.737500000000001
+288 curr_state is [['user0', 90], ['user1', 0], ['user2', 100], ['user3', 210]]
+288 most_prob_action [0, -2, 0, 2] most_prob_value 0.7548167109489441
+
+289 5.777500000000001
+289 curr_state is [['user0', 92], ['user1', 0], ['user2', 100], ['user3', 208]]
+289 most_prob_action [0, -2, 0, 2] most_prob_value 0.8206798434257507
+
+290 5.8175
+290 curr_state is [['user0', 94], ['user1', 0], ['user2', 100], ['user3', 206]]
+290 most_prob_action [0, -2, 0, 2] most_prob_value 0.8753799200057983
+
+291 5.777500000000001
+291 curr_state is [['user0', 92], ['user1', 0], ['user2', 100], ['user3', 208]]
+291 most_prob_action [0, -2, 0, 2] most_prob_value 0.946161150932312
+
+292 5.8175
+292 curr_state is [['user0', 94], ['user1', 0], ['user2', 100], ['user3', 206]]
+292 most_prob_action [0, -2, 0, 2] most_prob_value 0.9647873640060425
+
+293 5.897500000000001
+293 curr_state is [['user0', 98], ['user1', 0], ['user2', 100], ['user3', 202]]
+293 most_prob_action [0, -2, 0, 2] most_prob_value 0.9704955220222473
+
+294 5.897500000000001
+294 curr_state is [['user0', 98], ['user1', 0], ['user2', 100], ['user3', 202]]
+294 most_prob_action [0, -2, 0, 2] most_prob_value 0.9840158224105835
+
+295 5.897500000000001
+295 curr_state is [['user0', 98], ['user1', 0], ['user2', 100], ['user3', 202]]
+295 most_prob_action [0, -2, 0, 2] most_prob_value 0.991235613822937
+
+296 5.9375
+296 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+296 most_prob_action [0, -2, 0, 2] most_prob_value 0.9937064051628113
+
+297 5.9375
+297 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+297 most_prob_action [0, -2, 0, 2] most_prob_value 0.996263325214386
+
+298 5.9375
+298 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+298 most_prob_action [0, -2, 0, 2] most_prob_value 0.9976894855499268
+
+299 5.9375
+299 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+299 most_prob_action [0, -2, 0, 2] most_prob_value 0.9985137581825256
+
+300 5.9375
+300 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+300 most_prob_action [0, -2, 0, 2] most_prob_value 0.999007523059845
+
+301 5.9375
+301 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+301 most_prob_action [0, -2, 0, 2] most_prob_value 0.9993135929107666
+
+302 5.9375
+302 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+302 most_prob_action [0, -2, 0, 2] most_prob_value 0.9995094537734985
+
+303 5.9375
+303 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+303 most_prob_action [0, -2, 0, 2] most_prob_value 0.9996384382247925
+
+304 5.9375
+304 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+304 most_prob_action [0, -2, 0, 2] most_prob_value 0.9997261166572571
+
+305 5.9375
+305 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+305 most_prob_action [0, -2, 0, 2] most_prob_value 0.9997871518135071
+
+306 5.9375
+306 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+306 most_prob_action [0, -2, 0, 2] most_prob_value 0.9998304843902588
+
+307 5.9375
+307 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+307 most_prob_action [0, -2, 0, 2] most_prob_value 0.9998623132705688
+
+308 5.9375
+308 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+308 most_prob_action [0, -2, 0, 2] most_prob_value 0.9998856782913208
+
+309 5.9375
+309 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+309 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999034404754639
+
+310 5.9375
+310 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+310 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999171495437622
+
+311 5.9375
+311 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+311 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999277591705322
+
+312 5.9375
+312 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+312 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999361038208008
+
+313 5.9375
+313 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+313 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999430179595947
+
+314 5.9375
+314 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+314 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999485015869141
+
+315 5.9375
+315 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+315 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999531507492065
+
+316 5.9375
+316 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+316 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999567270278931
+
+317 5.9375
+317 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+317 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999599456787109
+
+318 5.897500000000001
+318 curr_state is [['user0', 98], ['user1', 0], ['user2', 100], ['user3', 202]]
+318 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999704360961914
+
+319 5.9375
+319 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+319 most_prob_action [0, -2, 0, 2] most_prob_value 0.999966025352478
+
+320 5.9375
+320 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+320 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999685287475586
+
+321 5.9375
+321 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+321 most_prob_action [0, -2, 0, 2] most_prob_value 0.999970555305481
+
+322 5.9375
+322 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+322 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999722242355347
+
+323 5.9375
+323 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+323 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999737739562988
+
+324 5.9375
+324 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+324 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999749660491943
+
+325 5.9375
+325 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+325 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999759197235107
+
+326 5.9375
+326 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+326 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999769926071167
+
+327 5.9375
+327 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+327 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999778270721436
+
+328 5.9375
+328 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+328 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999784231185913
+
+329 5.9375
+329 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+329 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999790191650391
+
+330 5.9375
+330 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+330 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999794960021973
+
+331 5.9375
+331 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+331 most_prob_action [0, -2, 0, 2] most_prob_value 0.999980092048645
+
+332 5.9375
+332 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+332 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999804496765137
+
+333 5.9375
+333 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+333 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999808073043823
+
+334 5.9375
+334 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+334 most_prob_action [0, -2, 0, 2] most_prob_value 0.999981164932251
+
+335 5.9375
+335 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+335 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999814033508301
+
+336 5.9375
+336 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+336 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999816417694092
+
+337 5.9375
+337 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+337 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999818801879883
+
+338 5.9375
+338 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+338 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999819993972778
+
+339 5.9375
+339 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+339 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999822378158569
+
+340 5.897500000000001
+340 curr_state is [['user0', 98], ['user1', 0], ['user2', 100], ['user3', 202]]
+340 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999858140945435
+
+341 5.9375
+341 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+341 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999828338623047
+
+342 5.9375
+342 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+342 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999831914901733
+
+343 5.9375
+343 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+343 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999833106994629
+
+344 5.9375
+344 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+344 most_prob_action [0, -2, 0, 2] most_prob_value 0.999983549118042
+
+345 5.9375
+345 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+345 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999836683273315
+
+346 5.9375
+346 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+346 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999837875366211
+
+347 5.9375
+347 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+347 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999839067459106
+
+348 5.9375
+348 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+348 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999840259552002
+
+349 5.9375
+349 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+349 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999840259552002
+
+350 5.9375
+350 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+350 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999841451644897
+
+351 5.9375
+351 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+351 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999842643737793
+
+352 5.9375
+352 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+352 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999842643737793
+
+353 5.9375
+353 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+353 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+354 5.9375
+354 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+354 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+355 5.9375
+355 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+355 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+356 5.9375
+356 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+356 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999845027923584
+
+357 5.9375
+357 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+357 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999845027923584
+
+358 5.9375
+358 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+358 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999845027923584
+
+359 5.9375
+359 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+359 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999845027923584
+
+360 5.9375
+360 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+360 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+361 5.9375
+361 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+361 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+362 5.9375
+362 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+362 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+363 5.9375
+363 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+363 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+364 5.9375
+364 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+364 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+365 5.9375
+365 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+365 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+366 5.9375
+366 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+366 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+367 5.9375
+367 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+367 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+368 5.9375
+368 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+368 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+369 5.9375
+369 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+369 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+370 5.9375
+370 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+370 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+371 5.9375
+371 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+371 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+372 5.9375
+372 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+372 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+373 5.9375
+373 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+373 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+374 5.9375
+374 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+374 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+375 5.9375
+375 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+375 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+376 5.9375
+376 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+376 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+377 5.9375
+377 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+377 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+378 5.9375
+378 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+378 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+379 5.9375
+379 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+379 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+380 5.9375
+380 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+380 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+381 5.9375
+381 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+381 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+382 5.9375
+382 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+382 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+383 5.9375
+383 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+383 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+384 5.9375
+384 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+384 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+385 5.9375
+385 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+385 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+386 5.9375
+386 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+386 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+387 5.9375
+387 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+387 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+388 5.9375
+388 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+388 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+389 5.9375
+389 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+389 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+390 5.9375
+390 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+390 most_prob_action [0, -2, 0, 2] most_prob_value 0.999984622001648
+
+391 5.9375
+391 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+391 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999845027923584
+
+392 5.9375
+392 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+392 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999845027923584
+
+393 5.9375
+393 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+393 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999845027923584
+
+394 5.9375
+394 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+394 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+395 5.9375
+395 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+395 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+396 5.9375
+396 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+396 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+397 5.9375
+397 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+397 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+398 5.9375
+398 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+398 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+399 5.9375
+399 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+399 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
+
+400 5.9375
+400 curr_state is [['user0', 100], ['user1', 0], ['user2', 100], ['user3', 200]]
+400 most_prob_action [0, -2, 0, 2] most_prob_value 0.9999843835830688
 
